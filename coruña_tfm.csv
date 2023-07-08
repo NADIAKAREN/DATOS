@@ -1,0 +1,663 @@
+index,titulo,localizacion,precio,latitud,longitud,id,tipo_vivienda,metros_construidos,metros_utiles,habitaciones,banos,garaje,trastero,planta,ascensor,exterior,orientacion,calefaccion,armarios_empotrados
+"0.0,""Piso en venta en calle José Echegaray, 1"",Los Castros - Castrillón,169000,43.35048,-8.38993,,Piso,83,69,2,2,1,1,2,1,1,,individual,0"
+"1.0,""Piso en venta en calle José Echegaray, 1"",Los Castros - Castrillón,169000,43.35048,-8.38993,,Piso,83,69,2,2,1,1,2,1,1,,individual,0"
+2.0,Piso en venta en avenida San Cristobal,Someso - Matogrande,250000,43.3446511,-8.41337,,Piso,110,98,3,2,1,1,8,1,1,sur,central: Gasoil,1
+"3.0,Piso en venta en calle San Nicolás,Ciudad Vieja - Centro,495000,43.3696232,-8.3990518,,Piso,147,,3,2,0,1,2,0,1,""este, oeste"",individual,1"
+4.0,Piso en venta en novoa santos,Cuatro Caminos - Plaza de la Cubela,180000,43.3574745,-8.3991115,,Piso,63,55,2,1,0,0,7,1,1,este,individual,1
+5.0,Piso en venta en plaza De España,Monte Alto - Zalaeta - Atocha,370000,43.3745383,-8.3950656,,Piso,125,108,3,2,0,1,1,1,1,este,individual,1
+"6.0,Piso en venta en calle Novoa Santos,Cuatro Caminos - Plaza de la Cubela,373000,43.3570671,-8.401163,,Piso,138,,5,3,1,0,8,1,1,""sur, oeste"",central,1"
+7.0,Piso en venta en Los Castros - Castrillón,A Coruña,125000,43.3521145,-8.3896716,,Piso,85,73,3,1,0,0,3,0,1,,individual,1
+"8.0,""Piso en venta en calle José Echegaray, 1"",Los Castros - Castrillón,169000,43.35048,-8.38993,,Piso,83,69,2,2,1,1,2,1,1,,individual,0"
+9.0,Piso en venta en avenida San Cristobal,Someso - Matogrande,250000,43.3446511,-8.41337,,Piso,110,98,3,2,1,1,8,1,1,sur,central: Gasoil,1
+"10.0,Piso en venta en calle San Nicolás,Ciudad Vieja - Centro,495000,43.3696232,-8.3990518,,Piso,147,,3,2,0,1,2,0,1,""este, oeste"",individual,1"
+11.0,Piso en venta en novoa santos,Cuatro Caminos - Plaza de la Cubela,180000,43.3574745,-8.3991115,,Piso,63,55,2,1,0,0,7,1,1,este,individual,1
+12.0,Piso en venta en plaza De España,Monte Alto - Zalaeta - Atocha,370000,43.3745383,-8.3950656,,Piso,125,108,3,2,0,1,1,1,1,este,individual,1
+"13.0,Piso en venta en calle Novoa Santos,Cuatro Caminos - Plaza de la Cubela,373000,43.3570671,-8.401163,,Piso,138,,5,3,1,0,8,1,1,""sur, oeste"",central,1"
+14.0,Piso en venta en Los Castros - Castrillón,A Coruña,125000,43.3521145,-8.3896716,,Piso,85,73,3,1,0,0,3,0,1,,individual,1
+15.0,Piso en venta en calle Posse,Cuatro Caminos - Plaza de la Cubela,379900,43.3529925,-8.3999733,,Piso,125,,3,3,1,1,5,1,1,oeste,individual: Gas natural,1
+"16.0,Piso en venta en avenida Ejército,Cuatro Caminos - Plaza de la Cubela,290000,43.3591124,-8.4012332,,Piso,120,,3,2,0,0,1,1,1,""sur, este"",individual,1"
+17.0,Piso en venta en Grupo Maria Pita,Riazor - Los Rosales,132000,43.3764075,-8.4214721,,Piso,77,70,2,1,0,0,2,0,1,oeste,individual: Gas propano/butano,1
+"18.0,Piso en venta en ronda de Outeiro,Agra del Orzán - Ventorrillo,145000,43.3609646,-8.4208003,,Piso,55,52,2,1,0,0,1,1,1,""este, oeste"",individual: Eléctrica,1"
+19.0,Piso en venta en carretera de Mesoiro,Mesoiro,129000,43.3308591,-8.4247189,,Piso,75,70,2,1,1,0,2,1,1,,individual: Gas natural,1
+"20.0,""Piso en venta en Ramon del Cueto, 1"",Monte Alto - Zalaeta - Atocha,440000,43.3753207,-8.4008191,,Piso,123,110,4,2,1,1,4,1,1,norte,central: Gasoil,1"
+"21.0,""Piso en venta en Frente al Corte Inglés, 2"",Cuatro Caminos - Plaza de la Cubela,330000,43.3543869,-8.4040299,,Piso,100,92,3,2,1,0,4,1,1,este,individual: Eléctrica,1"
+"22.0,Piso en venta en calle Novoa Santos,Cuatro Caminos - Plaza de la Cubela,259000,43.3554652,-8.3981633,,Piso,94,,3,2,0,0,5,1,1,""sur, oeste"",individual,1"
+"23.0,""Ático en venta en ronda de Outeiro, a escasos metros del Corte Inglés, 36"",Cuatro Caminos - Plaza de la Cubela,350000,43.35177,-8.4019133,,Ático,129,116,4,2,1,1,8,1,1,""este, oeste"",individual,1"
+"24.0,""Piso en venta en calle Real, 10 -38"",Ciudad Vieja - Centro,350000,43.3700681,-8.3997945,,Piso,136,114,3,2,0,0,8,1,1,""norte, oeste"",,0"
+"25.0,Piso en venta en Pla Cancela,Falperra-Santa Lucía,339000,43.3615141,-8.4112212,,Piso,92,77,3,2,0,1,5,1,1,""sur, oeste"",individual: Bomba de frío/calor,1"
+"26.0,Piso en venta en calle Arquitecto Rey Pedreira,Riazor - Los Rosales,250000,43.3679125,-8.4222779,,Piso,89,80,3,2,1,1,1,1,1,""sur, oeste"",individual: Gas natural,1"
+",""Piso en venta en calle José Echegaray, 1"",Los Castros - Castrillón,169000,43.35048,-8.38993,99914185.0,Piso,83,69,2,2,1,1,2,1,1,,individual,0"
+,Piso en venta en avenida San Cristobal,Someso - Matogrande,250000,43.3446511,-8.41337,100859613.0,Piso,110,98,3,2,1,1,8,1,1,sur,central: Gasoil,1
+",Piso en venta en calle San Nicolás,Ciudad Vieja - Centro,495000,43.3696232,-8.3990518,101900474.0,Piso,147,,3,2,0,1,2,0,1,""este, oeste"",individual,1"
+,Piso en venta en novoa santos,Cuatro Caminos - Plaza de la Cubela,180000,43.3574745,-8.3991115,101499314.0,Piso,63,55,2,1,0,0,7,1,1,este,individual,1
+,Piso en venta en plaza De España,Monte Alto - Zalaeta - Atocha,370000,43.3745383,-8.3950656,98922319.0,Piso,125,108,3,2,0,1,1,1,1,este,individual,1
+",Piso en venta en calle Novoa Santos,Cuatro Caminos - Plaza de la Cubela,373000,43.3570671,-8.401163,101571465.0,Piso,138,,5,3,1,0,8,1,1,""sur, oeste"",central,1"
+,Piso en venta en Los Castros - Castrillón,A Coruña,125000,43.3521145,-8.3896716,101483098.0,Piso,85,73,3,1,0,0,3,0,1,,individual,1
+,Piso en venta en calle Posse,Cuatro Caminos - Plaza de la Cubela,379900,43.3529925,-8.3999733,100961196.0,Piso,125,,3,3,1,1,5,1,1,oeste,individual: Gas natural,1
+",Piso en venta en avenida Ejército,Cuatro Caminos - Plaza de la Cubela,290000,43.3591124,-8.4012332,100168683.0,Piso,120,,3,2,0,0,1,1,1,""sur, este"",individual,1"
+,Piso en venta en Grupo Maria Pita,Riazor - Los Rosales,132000,43.3764075,-8.4214721,100857928.0,Piso,77,70,2,1,0,0,2,0,1,oeste,individual: Gas propano/butano,1
+",Piso en venta en ronda de Outeiro,Agra del Orzán - Ventorrillo,145000,43.3609646,-8.4208003,101600158.0,Piso,55,52,2,1,0,0,1,1,1,""este, oeste"",individual: Eléctrica,1"
+,Piso en venta en carretera de Mesoiro,Mesoiro,129000,43.3308591,-8.4247189,100532621.0,Piso,75,70,2,1,1,0,2,1,1,,individual: Gas natural,1
+",""Piso en venta en Ramon del Cueto, 1"",Monte Alto - Zalaeta - Atocha,440000,43.3753207,-8.4008191,100660219.0,Piso,123,110,4,2,1,1,4,1,1,norte,central: Gasoil,1"
+",""Piso en venta en Frente al Corte Inglés, 2"",Cuatro Caminos - Plaza de la Cubela,330000,43.3543869,-8.4040299,101520446.0,Piso,100,92,3,2,1,0,4,1,1,este,individual: Eléctrica,1"
+",Piso en venta en calle Novoa Santos,Cuatro Caminos - Plaza de la Cubela,259000,43.3554652,-8.3981633,99210301.0,Piso,94,,3,2,0,0,5,1,1,""sur, oeste"",individual,1"
+",""Piso en venta en calle José Echegaray, 1"",Los Castros - Castrillón,169000,43.35048,-8.38993,99914185.0,Piso,83,69,2,2,1,1,2,1,1,,individual,0"
+",""Piso en venta en calle José Echegaray, 1"",Los Castros - Castrillón,169000,43.35048,-8.38993,99914185.0,Piso,83,69,2,2,1,1,2,1,1,,individual,0"
+,Piso en venta en avenida San Cristobal,Someso - Matogrande,250000,43.3446511,-8.41337,100859613.0,Piso,110,98,3,2,1,1,8,1,1,sur,central: Gasoil,1
+",""Piso en venta en calle José Echegaray, 1"",Los Castros - Castrillón,169000,43.35048,-8.38993,99914185.0,Piso,83,69,2,2,1,1,2,1,1,,individual,0"
+",""Piso en venta en calle José Echegaray, 1"",Los Castros - Castrillón,169000,43.35048,-8.38993,99914185.0,Piso,83,69,2,2,1,1,2,1,1,,individual,0"
+",""Piso en venta en calle José Echegaray, 1"",Los Castros - Castrillón,169000,43.35048,-8.38993,99914185.0,Piso,83,69,2,2,1,1,2,1,1,,individual,0"
+",""Piso en venta en calle José Echegaray, 1"",Los Castros - Castrillón,169000,43.35048,-8.38993,99914185.0,Piso,83,69,2,2,1,1,2,1,1,,individual,0"
+",""Piso en venta en calle José Echegaray, 1"",Los Castros - Castrillón,169000,43.35048,-8.38993,99914185.0,Piso,83,69,2,2,1,1,2,1,1,,individual,0"
+,Piso en venta en avenida San Cristobal,Someso - Matogrande,250000,43.3446511,-8.41337,100859613.0,Piso,110,98,3,2,1,1,8,1,1,sur,central: Gasoil,1
+",Piso en venta en calle San Nicolás,Ciudad Vieja - Centro,495000,43.3696232,-8.3990518,101900474.0,Piso,147,,3,2,0,1,2,0,1,""este, oeste"",individual,1"
+,Piso en venta en novoa santos,Cuatro Caminos - Plaza de la Cubela,180000,43.3574745,-8.3991115,101499314.0,Piso,63,55,2,1,0,0,7,1,1,este,individual,1
+,Piso en venta en plaza De España,Monte Alto - Zalaeta - Atocha,370000,43.3745383,-8.3950656,98922319.0,Piso,125,108,3,2,0,1,1,1,1,este,individual,1
+",Piso en venta en calle Novoa Santos,Cuatro Caminos - Plaza de la Cubela,373000,43.3570671,-8.401163,101571465.0,Piso,138,,5,3,1,0,8,1,1,""sur, oeste"",central,1"
+,Piso en venta en Los Castros - Castrillón,A Coruña,125000,43.3521145,-8.3896716,101483098.0,Piso,85,73,3,1,0,0,3,0,1,,individual,1
+",Piso en venta en Javier López López,Los Castros - Castrillón,160000,43.3474974,-8.397325,101575011.0,Piso,107,96,3,2,0,1,3,1,1,""sur, este"",,1"
+,Piso en venta en calle Estrella,Ensanche,347000,43.3690467,-8.4047428,101595818.0,Piso,106,97,3,2,0,0,3,1,1,,individual: Eléctrica,1
+",Dúplex en venta en Manuel Azaña,Riazor - Los Rosales,315000,43.3766056,-8.4293825,101531118.0,Dúplex,97,,3,3,1,1,8,1,1,""norte, este, oeste"",individual: Gas natural,1"
+",Piso en venta en avenida Montserrat,Eirís,270000,43.3362099,-8.3899334,101466720.0,Piso,215,151,3,2,1,1,2,1,1,""sur, este, oeste"",individual,1"
+,Piso en venta en calle Chile,Cuatro Caminos - Plaza de la Cubela,245000,43.3530773,-8.4060171,101346873.0,Piso,165,140,4,3,0,0,4,1,1,oeste,,1
+,Piso en venta en Ortigueira,Los Castros - Castrillón,119000,43.3524943,-8.3925341,100342073.0,Piso,100,95,3,1,0,0,5,0,1,este,individual: Eléctrica,0
+",""Piso en venta en Oza, 210"",Los Castros - Castrillón,230000,43.352723,-8.3902367,97977221.0,Piso,128,105,3,2,1,1,3,1,1,,individual: Gas natural,1"
+",Piso en venta en villa de carral,Monte Alto - Zalaeta - Atocha,195000,43.3769819,-8.4077235,101604214.0,Piso,70,65,3,2,0,0,1,1,1,""sur, este, oeste"",individual,1"
+,Piso en venta en Juan Castro Mosquera,Falperra-Santa Lucía,238000,43.3586542,-8.4088863,100550074.0,Piso,150,126,4,2,0,0,2,1,1,,individual,1
+,Piso en venta en calle Falperra,Os Mallos,152000,43.3586166,-8.4099805,101294667.0,Piso,60,,,1,0,1,2,1,1,sur,individual: Eléctrica,1
+,Piso en venta en ronda de Monte Alto,Monte Alto - Zalaeta - Atocha,195000,43.3824229,-8.4045843,101598457.0,Piso,71,64,2,2,0,0,1,1,1,sur,individual: Eléctrica,1
+",Piso en venta en calle Juana de Vega,Ensanche,550000,43.3686149,-8.4077386,101281749.0,Piso,177,144,5,4,0,1,7,1,1,""este, oeste"",central,1"
+,Piso en venta en Los Castros - Castrillón,A Coruña,160000,43.3442603,-8.4016133,101952911.0,Piso,96,,3,2,0,0,3,1,1,,,1
+,Piso en venta en calle Felix de Acevedo,Os Mallos,190000,43.3588365,-8.4060477,101934983.0,Piso,83,74,2,1,0,1,9,1,1,,individual: Eléctrica,1
+,Piso en venta en calle José Echegaray,Los Castros - Castrillón,169000,43.35168,-8.39153,96185548.0,Piso,83,69,2,2,1,1,4,1,1,,individual,1
+,Piso en venta en Maria Pita,Ciudad Vieja - Centro,720000,43.3703617,-8.395364,101667573.0,Piso,130,120,3,2,1,1,2,1,1,este,individual: Gas natural,1
+",""Piso en venta en María Luisa Durán Marquina, 8"",Riazor - Los Rosales,290000,43.369852,-8.4180239,101800223.0,Piso,132,126,3,3,0,1,2,1,1,,,1"
+", Chalet pareado en venta en avenida Pasaje,Eirís,800000,43.3454659,-8.3893918,100190937.0,Chalet,368,350,4,3,1,1,,0,0,""este, oeste"",individual,1"
+",""Piso en venta en calle Avogacía, 4"",Cuatro Caminos - Plaza de la Cubela,474000,43.3571026,-8.4013053,101376445.0,Piso,139,98,4,2,0,1,1,1,1,""norte, oeste"",,1"
+",""Piso en venta en calle Blanco White, 10"",Someso - Matogrande,147024,43.346611,-8.4173387,97471984.0,Piso,74,,2,2,1,0,2,1,1,,individual,1"
+,Piso en venta en calle Vila de Carral,Monte Alto - Zalaeta - Atocha,195000,43.3786869,-8.4058438,101603298.0,Piso,72,67,3,2,0,0,1,1,1,,,1
+,Piso en venta en Rio de Monelos,Cuatro Caminos - Plaza de la Cubela,260000,43.3564918,-8.3974928,101095725.0,Piso,125,105,3,2,1,0,20,1,1,,,1
+",""Piso en venta en Ramon Maria Aller, 2"",Agra del Orzán - Ventorrillo,215000,43.3625944,-8.4180368,100703384.0,Piso,83,,3,2,0,0,6,1,1,""sur, este, oeste"",individual: Gas natural,1"
+",Piso en venta en Juan Flórez-San Pablo,Ensanche - Juan Florez,380000,43.3642087,-8.4119759,101827139.0,Piso,126,115,4,2,0,0,6,1,1,""este, oeste"",individual: Eléctrica,1"
+,Piso en venta en Fermnando Gonzalez,Ensanche,485000,43.3630548,-8.4080586,101411803.0,Piso,203,180,5,3,1,0,6,1,1,sur,central: Gasoil,1
+,Piso en venta en Fuente Álamo,Agra del Orzán - Ventorrillo,149999,43.3600297,-8.4200147,100309904.0,Piso,75,70,2,1,0,0,1,1,1,,individual: Eléctrica,0
+",Piso en venta en Agra del Orzán - Ventorrillo,A Coruña,145000,43.3604093,-8.4204547,91545174.0,Piso,64,60,3,1,0,1,2,1,1,""sur, oeste"",individual: Eléctrica,1"
+,Piso en venta en calle Illas Cíes,Mesoiro,157000,43.3261407,-8.4280761,101340029.0,Piso,83,70,2,1,1,1,3,1,1,,individual: Gas natural,1
+,Piso en venta en Someso - Matogrande,A Coruña,147565,43.3456566,-8.4166832,97489116.0,Piso,73,,2,2,1,0,3,1,1,,,1
+",""Piso en venta en Novoa Santos, 22"",Cuatro Caminos - Plaza de la Cubela,185000,43.3564465,-8.4001045,101239738.0,Piso,72,,3,1,0,1,3,1,1,""sur, este"",individual: Eléctrica,1"
+,Piso en venta en avenida Gramela,Agra del Orzán - Ventorrillo,229000,43.3600783,-8.4164951,99706084.0,Piso,90,,3,2,0,1,4,1,1,,individual,1
+,Piso en venta en calle Alexandre Von Humboldt,Someso - Matogrande,210000,43.3447944,-8.4100998,100523396.0,Piso,110,100,4,2,1,1,1,1,1,,central: Gasoil,1
+,Piso en venta en Abogacía,Cuatro Caminos - Plaza de la Cubela,415000,43.3576112,-8.4008866,97515389.0,Piso,100,,2,2,1,1,6,1,1,norte,,1
+,Piso en venta en avenida San Cristóbal,Someso - Matogrande,190000,43.3424814,-8.4141571,101148260.0,Piso,90,,4,2,1,1,2,1,1,,,0
+",""Piso en venta en avenida del Ejercito, 8"",Cuatro Caminos - Plaza de la Cubela,300000,43.3569085,-8.3989825,100898932.0,Piso,140,125,4,2,1,1,2,1,1,este,central: Gasoil,1"
+",Dúplex en venta en calle Puente,Cuatro Caminos - Plaza de la Cubela,379900,43.3532117,-8.4016642,100941515.0,Dúplex,125,114,3,3,1,1,5,1,1,""sur, oeste"",individual: Gas natural,1"
+,Dúplex en venta en calle Ponte,Cuatro Caminos - Plaza de la Cubela,399000,43.3554374,-8.3985278,101169520.0,Dúplex,154,138,3,3,1,1,5,1,1,,individual: Gas natural,1
+,Piso en venta en calle Parque,Monte Alto - Zalaeta - Atocha,240000,43.3775157,-8.3980797,98910753.0,Piso,100,98,3,2,0,1,3,1,1,,individual: Gas natural,0
+,Piso en venta en Pérez Cepeda,Juan Flórez-San Pablo,249900,43.3637421,-8.4128243,101351329.0,Piso,92,80,3,1,1,0,3,1,1,,,0
+,Piso en venta en Agra del Orzán - Ventorrillo,A Coruña,169000,43.3613311,-8.4224966,98974824.0,Piso,100,85,3,2,0,1,6,1,1,oeste,central: Gasoil,1
+,Piso en venta en cantabrico,Monte Alto - Zalaeta - Atocha,430000,43.3746868,-8.4031938,101416649.0,Piso,110,100,3,2,1,1,1,1,1,,individual,1
+",Piso en venta en avenida De Hercules,Monte Alto - Zalaeta - Atocha,240000,43.3780451,-8.4059008,98801030.0,Piso,89,81,2,1,0,0,9,1,1,""sur, este"",,0"
+",Piso en venta en calle Posse,Cuatro Caminos - Plaza de la Cubela,229000,43.3555871,-8.3974261,100593954.0,Piso,94,,3,2,0,0,3,1,1,""sur, oeste"",individual,1"
+",Piso en venta en avenida navarra,Monte Alto - Zalaeta - Atocha,160000,43.3817309,-8.3974514,101644298.0,Piso,80,,4,1,0,0,5,0,1,""sur, oeste"",,0"
+",Piso en venta en avenida Pablo Picasso,Someso - Matogrande,190000,43.3443452,-8.4138197,101344971.0,Piso,98,,4,2,1,1,2,1,1,""sur, este"",individual: Gas propano/butano,1"
+",""Piso en venta en Míster Archer Milton Huntington, 2"",Riazor - Los Rosales,497000,43.3721417,-8.4197387,99874993.0,Piso,120,105,3,2,1,1,5,1,1,sur,individual,1"
+, Casa o chalet independiente en venta en Lugar Eirís de Abaixo,Eirís,298000,43.3390523,-8.3979408,92741954.0,Casa,310,260,4,4,1,1,,0,0,,central: Gasoil,1
+,Piso en venta en calle Rianxo,Cuatro Caminos - Plaza de la Cubela,179000,43.3533638,-8.4025631,99970216.0,Piso,73,56,2,1,0,0,1,1,1,,individual,0
+",Dúplex en venta en Emilio gonzalez lopez,Riazor - Los Rosales,299000,43.3735762,-8.4305238,97343271.0,Dúplex,120,108,3,3,1,1,8,1,1,""sur, este"",individual: Gas natural,1"
+",Piso en venta en san vicente paul,Monte Alto - Zalaeta - Atocha,120000,43.3749965,-8.3981049,101752974.0,Piso,84,77,3,1,0,0,1,1,1,""sur, este"",,0"
+",Piso en venta en calle Rosas,Someso - Matogrande,155000,43.347964,-8.4042232,101238974.0,Piso,94,85,3,2,1,1,6,1,1,""sur, oeste"",individual: Gas natural,1"
+,Piso en venta en calle Juana De Vega,Ensanche,595000,43.3662928,-8.4071631,89033446.0,Piso,242,206,5,5,0,0,10,1,1,,,1
+,Piso en venta en Os Mallos,A Coruña,130000,43.3561234,-8.4079502,101951898.0,Piso,94,85,4,2,0,0,1,1,1,,,1
+",Piso en venta en santa cecilia,Monte Alto - Zalaeta - Atocha,128000,43.3813296,-8.4006966,101446944.0,Piso,66,62,2,1,0,0,2,0,1,""este, oeste"",individual: Eléctrica,0"
+",Piso en venta en calle Parque,Monte Alto - Zalaeta - Atocha,240000,43.379235,-8.3974977,98975644.0,Piso,104,82,3,2,0,1,3,1,1,""norte, oeste"",individual: Gas natural,0"
+",Piso en venta en puga y parga,Cuatro Caminos - Plaza de la Cubela,440000,43.3550623,-8.4040511,95151752.0,Piso,113,96,3,2,1,1,5,1,1,""norte, oeste"",central,1"
+",Piso en venta en calle Vila de Negreira,Agra del Orzán - Ventorrillo,117000,43.364371,-8.4189632,101897364.0,Piso,76,,4,1,0,0,1,1,1,""sur, oeste"",,0"
+, Chalet adosado en venta en calle Praga,Elviña - A Zapateira,380000,43.3136584,-8.4216562,101366310.0,Chalet,250,215,7,3,1,1,,0,0,sur,individual,1
+,Piso en venta en avenida Rubine,Juan Flórez-San Pablo,599000,43.3670039,-8.4076974,99950191.0,Piso,144,133,4,4,1,1,7,1,1,norte,central,1
+",Piso en venta en calle Doutor Fleming,Falperra-Santa Lucía,175000,43.3583729,-8.4067995,100349639.0,Piso,107,,4,2,0,0,3,0,1,""este, oeste"",,1"
+",Piso en venta en calle Juan Flórez,Ensanche,295000,43.3619547,-8.4073113,100902400.0,Piso,139,,4,2,1,1,1,1,1,""sur, este"",central,1"
+",Piso en venta en avenida Ejército,Los Castros - Castrillón,300000,43.3565909,-8.3961875,100912573.0,Piso,129,,4,2,1,1,2,1,1,""este, oeste"",central,1"
+,Piso en venta en avenida de Monelos,Los Castros - Castrillón,95000,43.344118,-8.3996523,100905683.0,Piso,75,,3,1,0,1,3,0,1,sur,,1
+,Piso en venta en Federico Tapia,Ensanche,595000,43.3613587,-8.4064412,101928738.0,Piso,190,184,5,2,1,0,1,1,1,sur,individual: Gas natural,1
+",Piso en venta en ronda de Outeiro,Agra del Orzán - Ventorrillo,239900,43.3598102,-8.421927,99424851.0,Piso,132,114,4,2,0,1,5,1,1,""norte, sur"",,1"
+,Piso en venta en San Isidoro,Sagrada Familia,108000,43.3573666,-8.4164442,100586705.0,Piso,80,,3,1,0,0,3,1,1,oeste,individual: Eléctrica,0
+,Piso en venta en avenida Rubine,Juan Flórez-San Pablo,630000,43.3694946,-8.4110801,100182739.0,Piso,245,,6,5,0,0,5,1,1,sur,individual: Gas natural,1
+,Piso en venta en paseo de Alexandre Bóveda,Cuatro Caminos - Plaza de la Cubela,360000,43.3568652,-8.4034477,98672391.0,Piso,142,126,4,2,1,1,6,1,1,sur,central,1
+",""Piso en venta en avenida dos Mallos, 15"",Os Mallos,220000,43.357256,-8.4106125,101953416.0,Piso,90,78,3,2,1,0,2,1,1,,individual,1"
+,Piso en venta en calle José María Hernansáez,Los Castros - Castrillón,195000,43.3522412,-8.3934901,101762190.0,Piso,115,,3,2,0,0,6,1,1,este,individual: Gas natural,1
+",Piso en venta en avenida de Monelos,Los Castros - Castrillón,99000,43.3443922,-8.4016314,101763898.0,Piso,99,,4,2,0,1,3,0,1,""sur, este"",individual: Gas natural,1"
+",""Piso en venta en calle Zalaeta, 16"",Monte Alto - Zalaeta - Atocha,460000,43.3744569,-8.4005875,98653421.0,Piso,187,174,7,2,1,1,1,1,1,sur,central: Gas,1"
+,Piso en venta en avenida de Oza,Los Castros - Castrillón,198000,43.3537438,-8.3976727,100195219.0,Piso,103,,4,2,0,0,3,1,1,,,0
+",""Piso en venta en avenida Finisterre, 96"",Juan Flórez-San Pablo,389000,43.3642018,-8.4127469,101403841.0,Piso,102,90,3,2,0,0,4,1,1,""este, oeste"",,1"
+,Piso en venta en María Puga Cerdido,Someso - Matogrande,315000,43.3435731,-8.405142,99629532.0,Piso,95,90,3,2,1,1,2,1,1,,individual: Gas natural,1
+",""Piso en venta en calle la Paz, 11"",Os Mallos,225000,43.3572403,-8.4090983,98118366.0,Piso,100,85,3,2,1,0,1,1,1,""norte, oeste"",individual: Gas natural,1"
+, Casa o chalet independiente en venta en Hamburgo,Elviña - A Zapateira,1280000,43.3255849,-8.395245,101954537.0,Casa,500,420,5,4,1,1,,0,0,,individual: Bomba de frío/calor,1
+,Piso en venta en calle de José Luis Bugallal Marchesi,Someso - Matogrande,225000,43.3461329,-8.4108357,100988980.0,Piso,100,,4,2,1,1,3,1,1,,individual: Gas natural,1
+",Ático en venta en Barrie De La Maza,Ensanche,850000,43.3713854,-8.4059989,101841675.0,Ático,165,150,4,2,1,0,11,1,1,""norte, este"",central: Gas,0"
+",Piso en venta en San Amaro,Monte Alto - Zalaeta - Atocha,320000,43.3804203,-8.3979714,101772273.0,Piso,70,68,2,2,1,1,4,1,1,""norte, oeste"",individual: Eléctrica,1"
+",""Dúplex en venta en calle Merced, 32"",Los Castros - Castrillón,280000,43.3529042,-8.3958421,98266385.0,Dúplex,148,,4,3,1,1,5,1,1,,individual: Eléctrica,1"
+","" Chalet pareado en venta en Río Deza, 3"",Paseo de los Puentes-Santa Margarita,768000,43.3600908,-8.4134008,101388977.0,Chalet,221,205,3,3,0,1,,0,0,,individual: Bomba de frío/calor,1"
+",""Dúplex en venta en Alfonso Molina, 4"",Ensanche,850000,43.3616725,-8.4053787,101402517.0,Dúplex,267,228,5,3,1,1,11,1,1,""este, oeste"",central,1"
+",Piso en venta en Sinfónica de Galicia,Juan Flórez-San Pablo,495000,43.3628572,-8.4100072,98335102.0,Piso,148,135,4,3,1,0,15,1,1,""sur, oeste"",central: Gas,1"
+",Piso en venta en plaza de Lugo,Ensanche,695000,43.3657649,-8.4074145,100817436.0,Piso,220,210,6,5,0,0,3,1,1,""sur, oeste"",individual: Gas natural,1"
+,Ático en venta en calle Real,Ciudad Vieja - Centro,590000,43.3689086,-8.4002148,99925105.0,Ático,120,104,2,1,1,1,4,0,1,sur,individual: Eléctrica,1
+",Piso en venta en ronda Outeiro,Vioño,305000,43.3571335,-8.4188911,100304858.0,Piso,104,98,3,2,1,1,3,1,1,""sur, este"",individual: Gas natural,1"
+",Piso en venta en avenida Monelos,Eirís,295000,43.3436098,-8.3967728,100612343.0,Piso,97,90,3,2,1,1,6,1,1,""norte, este"",individual: Gas natural,1"
+",Piso en venta en Alexander Von Humbolt,Someso - Matogrande,210000,43.3466549,-8.4095929,100142910.0,Piso,125,110,4,2,1,1,1,1,1,""sur, oeste"",individual,0"
+,Piso en venta en Félix Acevedo,Someso - Matogrande,190000,43.3412946,-8.4084939,101907496.0,Piso,78,75,2,1,1,1,9,1,1,sur,individual: Eléctrica,1
+, Casa o chalet independiente en venta en Eirís,A Coruña,398000,43.3381754,-8.3939366,99594012.0,Casa,250,203,5,2,1,0,,0,0,,individual: Gas propano/butano,0
+,Dúplex en venta en calle Noia,Os Mallos,185000,43.3570941,-8.4083342,99581978.0,Dúplex,93,,3,2,1,1,1,1,1,,,1
+,Piso en venta en calle Sánchez Bregua,Ensanche,690000,43.3669229,-8.4038249,101183054.0,Piso,167,145,3,1,1,1,4,1,1,,central,0
+",""Piso en venta en avenida De Oza, 130"",Los Castros - Castrillón,390000,43.3534733,-8.3935852,97291432.0,Piso,167,137,3,2,0,0,2,1,1,""norte, sur"",individual: Bomba de frío/calor,1"
+,Piso en venta en plaza José Toubes Pego,Os Mallos,360000,43.3597438,-8.4057647,101957263.0,Piso,126,110,4,2,1,1,6,1,1,sur,central: Gasoil,1
+,Piso en venta en calle Luciano Yordi de Carricarte,Someso - Matogrande,180000,43.3399154,-8.4049791,101526338.0,Piso,57,50,2,1,1,1,4,1,1,,individual: Gas natural,0
+",""Piso en venta en plaza del libro, 9"",Juan Flórez-San Pablo,505000,43.3630816,-8.4091984,99300958.0,Piso,260,230,4,2,0,0,4,1,1,sur,central,1"
+,Piso en venta en calle San Pedro de Visma,Agra del Orzán - Ventorrillo,120000,43.3684909,-8.4315055,100845800.0,Piso,53,,,1,1,1,1,0,1,,,1
+,Piso en venta en Novoa Santos,Cuatro Caminos - Plaza de la Cubela,395000,43.3584888,-8.3985166,101473686.0,Piso,176,,5,3,1,1,4,1,1,este,central,1
+",Piso en venta en ronda Falperra,Falperra-Santa Lucía,215000,43.3604728,-8.40746,97151759.0,Piso,116,100,4,2,0,1,6,1,1,""sur, este"",individual: Gas natural,0"
+",Piso en venta en Novoa Santos,Cuatro Caminos - Plaza de la Cubela,198000,43.3579713,-8.3983724,100092840.0,Piso,88,80,3,2,0,0,1,1,1,""este, oeste"",individual: Eléctrica,1"
+",Piso en venta en Juana De Vega,Ensanche,500000,43.3652225,-8.4077725,99158494.0,Piso,196,,4,3,0,0,2,1,1,""este, oeste"",central,1"
+",""Piso en venta en calle Bolivia, 6"",Juan Flórez-San Pablo,260000,43.3635739,-8.4099374,98585156.0,Piso,107,,4,2,0,1,5,1,1,,,0"
+",""Piso en venta en cuesta San Agustín, 4"",Ciudad Vieja - Centro,285000,43.3713301,-8.3976304,101937478.0,Piso,105,92,4,2,0,1,2,1,1,,individual: Gas natural,0"
+,Piso en venta en plaza de Lugo,Ensanche,850000,43.3677956,-8.4074451,98280379.0,Piso,261,240,4,3,1,0,,1,0,,individual: Gas natural,1
+, Chalet pareado en venta en calle Munich,Elviña - A Zapateira,360000,43.3155528,-8.4166415,101679150.0,Chalet,240,,4,3,1,1,,0,0,,,1
+,Piso en venta en caballeros,Cuatro Caminos - Plaza de la Cubela,260000,43.3487132,-8.405719,95755903.0,Piso,100,90,3,2,0,0,2,1,1,sur,individual: Gas natural,1
+",Piso en venta en calle Cordonería,Ciudad Vieja - Centro,380000,43.3710447,-8.4014774,99079323.0,Piso,118,108,4,2,0,1,5,1,1,""sur, este"",individual: Gas natural,1"
+,Piso en venta en calle Manuel Piñeiro Pose,Cuatro Caminos - Plaza de la Cubela,349000,43.3578126,-8.3991375,100262816.0,Piso,131,121,3,2,1,1,1,1,1,,individual,1
+",Ático en venta en Linares Rivas,Ensanche,2000000,43.3638525,-8.4041996,100007330.0,Ático,300,,5,4,1,1,11,1,1,""sur, este"",central,1"
+,Piso en venta en calle Tabernas,Ciudad Vieja - Centro,685000,43.371094,-8.3963718,92269870.0,Piso,140,135,2,2,0,1,5,1,1,,individual: Gas natural,1
+",Piso en venta en Federico Tapia,Ensanche,595000,43.3611538,-8.4060603,94247914.0,Piso,190,184,6,2,1,1,1,1,1,""sur, este, oeste"",individual: Gas natural,1"
+",Piso en venta en linares rivas s/n,Ensanche,750000,43.3612822,-8.4054494,101943813.0,Piso,249,225,4,3,0,1,4,1,1,""este, oeste"",individual: Gas natural,1"
+,Piso en venta en calle San Isidoro,Sagrada Familia,67000,43.3600216,-8.4158862,101628641.0,Piso,66,,3,1,0,0,,0,0,,,0
+",Piso en venta en Gaiteira,Cuatro Caminos - Plaza de la Cubela,395000,43.3551501,-8.3986138,100518566.0,Piso,120,,3,2,1,1,6,1,1,""norte, oeste"",individual: Eléctrica,1"
+,Piso en venta en calle San Luis,Os Mallos,84800,43.3545196,-8.4111135,100423825.0,Piso,82,,3,2,0,0,12,1,1,,individual: Eléctrica,0
+,Piso en venta en calle Sofía Casanova,Os Mallos,220000,43.3546012,-8.4119756,98650337.0,Piso,105,,3,2,1,1,5,1,1,,,1
+,Piso en venta en plaza da Gaiteira,Los Castros - Castrillón,340000,43.3548229,-8.3945268,100738100.0,Piso,100,,3,1,1,1,1,1,1,,,1
+,Piso en venta en ronda de Outeiro,Vioño,315000,43.3593251,-8.4193566,96031689.0,Piso,102,,3,2,1,1,5,1,1,,,1
+,Dúplex en venta en avenida Rubine,Juan Flórez-San Pablo,599000,43.3661164,-8.4103646,99855405.0,Dúplex,144,,4,4,1,1,7,1,1,,,1
+,Piso en venta en Os Mallos,A Coruña,130000,43.357712,-8.4094327,100982221.0,Piso,79,,3,2,0,0,2,0,1,,individual: Eléctrica,0
+",""Piso en venta en ronda de Outeiro, 222"",Sagrada Familia,185000,43.3580379,-8.4188936,100721866.0,Piso,114,,3,2,0,0,6,1,1,,,1"
+",Piso en venta en calle Gaiteira,Cuatro Caminos - Plaza de la Cubela,145000,43.3529028,-8.4006228,101955175.0,Piso,85,,3,1,0,0,4,0,1,""sur, este"",individual: Eléctrica,0"
+,Ático en venta en Someso - Matogrande,A Coruña,275000,43.3396017,-8.4121101,100802976.0,Ático,125,85,3,2,1,1,8,1,1,,individual,1
+",Dúplex en venta en avenida Montserrat,Eirís,255000,43.3358624,-8.3901426,100724751.0,Dúplex,151,120,3,3,1,1,4,1,1,""norte, este"",individual: Gas natural,1"
+",Piso en venta en Felix Acevedo,Someso - Matogrande,190000,43.3422841,-8.4089258,101912250.0,Piso,83,74,2,1,0,1,9,1,1,""norte, sur"",individual: Eléctrica,1"
+,Piso en venta en orillamar,Monte Alto - Zalaeta - Atocha,210000,43.3759072,-8.3954271,101931963.0,Piso,86,82,2,1,0,0,2,1,1,,individual: Eléctrica,0
+",""Piso en venta en San Andres 135, 135"",Ensanche,379000,43.3694708,-8.4036709,98354363.0,Piso,125,112,4,2,1,0,4,1,1,,individual: Gas natural,1"
+",Piso en venta en Manuel Azaña,Riazor - Los Rosales,248000,43.3747205,-8.4265334,101917602.0,Piso,75,67,2,2,1,1,7,1,1,""norte, este"",individual: Gas natural,1"
+",Piso en venta en Federico Tapia,Ensanche,295000,43.3621267,-8.405892,101893193.0,Piso,177,159,,2,0,1,1,1,1,""norte, sur"",individual: Gas natural,0"
+,Piso en venta en calle Adelaida Muro,Monte Alto - Zalaeta - Atocha,145000,43.3747863,-8.4028948,101340455.0,Piso,59,,2,1,0,0,,0,0,,,0
+,Piso en venta en Juan Flórez-San Pablo,Ensanche - Juan Florez,500000,43.3652792,-8.4142924,101378308.0,Piso,123,106,4,2,1,1,4,1,1,este,individual: Gas natural,1
+",Piso en venta en Cuatro Caminos - Plaza de la Cubela,A Coruña,319900,43.3564887,-8.4028584,101433645.0,Piso,130,105,4,2,1,0,7,1,1,""sur, este, oeste"",individual: Gas natural,1"
+,Piso en venta en calle Castrillon 14,Los Castros - Castrillón,155000,43.3531411,-8.3991165,101595960.0,Piso,85,80,3,1,0,0,5,1,1,este,,1
+, Casa o chalet independiente en venta en calle Roma,Elviña - A Zapateira,890000,43.3201129,-8.4020701,101566228.0,Casa,398,,4,5,0,1,,0,0,,individual: Bomba de frío/calor,1
+, Chalet pareado en venta en Mesoiro,A Coruña,310000,43.3106719,-8.4413822,98797074.0,Chalet,226,,4,3,1,0,,0,0,,,1
+,Piso en venta en Doctor Joaquín Cotarelo,Someso - Matogrande,235000,43.3485049,-8.4163102,101957719.0,Piso,101,,3,2,1,1,4,1,1,,individual: Gas natural,1
+",Piso en venta en avenida De Oza,Los Castros - Castrillón,105000,43.3509946,-8.3885633,98348139.0,Piso,100,95,3,1,0,0,5,0,1,""este, oeste"",,0"
+,Piso en venta en calle Montes,Los Castros - Castrillón,147000,43.3540799,-8.4000815,100918271.0,Piso,60,,,1,1,1,4,1,1,,,1
+",Piso en venta en avenida Enrique Mariñas,Someso - Matogrande,135000,43.3403092,-8.4041404,98770042.0,Piso,41,36,2,1,0,0,7,1,1,""norte, este"",individual: Eléctrica,0"
+,Piso en venta en plaza Varsovia,Elviña - A Zapateira,215000,43.3175991,-8.4167358,100968601.0,Piso,99,,2,2,1,1,1,1,1,sur,individual: Gas natural,1
+,Piso en venta en calle Montes,Los Castros - Castrillón,147000,43.3521702,-8.3963801,100441863.0,Piso,57,,,1,1,1,4,1,1,sur,individual,1
+",Piso en venta en Diego Delicado,Os Mallos,155000,43.3566757,-8.4140453,100802017.0,Piso,92,83,2,1,0,0,2,1,1,""norte, sur"",individual: Eléctrica,0"
+",Piso en venta en ronda de montealto,Monte Alto - Zalaeta - Atocha,425000,43.3804822,-8.4017824,101869775.0,Piso,117,95,2,2,1,1,,1,0,""sur, oeste"",central: Gas,1"
+",Dúplex en venta en curtis,Los Castros - Castrillón,225000,43.3503718,-8.3955744,101770173.0,Dúplex,125,116,4,3,1,1,6,1,1,""este, oeste"",individual: Eléctrica,1"
+,Piso en venta en calle San Juan,Monte Alto - Zalaeta - Atocha,125000,43.3743957,-8.3937317,101892233.0,Piso,74,68,,,0,0,4,0,1,,,0
+,Piso en venta en calle Antonio Ríos,Los Castros - Castrillón,245000,43.3514743,-8.3998011,101701353.0,Piso,105,97,3,2,1,1,4,1,1,este,individual,1
+",Piso en venta en Petunias,Someso - Matogrande,140000,43.345612,-8.4016288,101730960.0,Piso,119,100,5,2,1,1,4,1,1,""norte, sur"",individual: Gas propano/butano,1"
+,Piso en venta en avenida de Linares Rivas,Ensanche,750000,43.3627955,-8.4066777,101686520.0,Piso,249,230,5,2,0,1,4,1,1,,individual,0
+",Piso en venta en San Antonio,Monte Alto - Zalaeta - Atocha,145000,43.3819225,-8.3995776,101800816.0,Piso,71,68,2,1,0,0,1,0,1,""norte, sur"",individual: Eléctrica,0"
+",Piso en venta en Arquitecto Rey Pedreira,Riazor - Los Rosales,260000,43.3684234,-8.4220647,101836300.0,Piso,90,87,3,2,0,0,4,1,1,""norte, sur"",individual: Eléctrica,1"
+",Piso en venta en Eugenio Fernandez Granell,Someso - Matogrande,219000,43.3448066,-8.4125208,101828736.0,Piso,75,60,2,1,1,1,2,1,1,""este, oeste"",central: Gas,1"
+",Piso en venta en San Cristobal,Someso - Matogrande,190000,43.3423744,-8.4110831,101801855.0,Piso,108,100,4,2,1,1,2,1,1,""este, oeste"",central,1"
+,Piso en venta en plaza de María Pita,Ciudad Vieja - Centro,720000,43.3713978,-8.3953608,101699113.0,Piso,125,115,3,2,1,1,2,1,1,,individual,1
+",Piso en venta en Luis Peña Novo,Someso - Matogrande,170000,43.3409293,-8.4222019,101744317.0,Piso,89,80,2,2,1,1,2,1,1,""norte, oeste"",central: Gas,1"
+",Piso en venta en avenida Finisterre,Juan Flórez-San Pablo,389000,43.3635283,-8.410806,101817310.0,Piso,102,90,3,2,0,0,4,1,1,""sur, oeste"",individual,1"
+",Ático en venta en travesía Hogar Calvo Sotelo,Riazor - Los Rosales,400000,43.3721041,-8.4190913,95300376.0,Ático,61,55,2,2,1,0,6,1,1,""sur, oeste"",individual: Gas natural,1"
+",Piso en venta en pintor manuel colmeiro,Someso - Matogrande,154500,43.3459569,-8.4136781,101409986.0,Piso,88,80,3,1,0,0,1,1,1,""este, oeste"",individual: Eléctrica,1"
+,Piso en venta en ronda De Outeiro,Vioño,315000,43.3588326,-8.420782,96068649.0,Piso,99,95,3,2,0,1,5,1,1,,individual: Gas natural,1
+,Piso en venta en Archer Milton Huntington,Riazor - Los Rosales,180000,43.371469,-8.419463,100858759.0,Piso,80,72,2,2,0,0,3,0,1,,individual: Eléctrica,1
+",Piso en venta en calle Montes,Los Castros - Castrillón,147000,43.3511906,-8.3984296,100137512.0,Piso,60,57,,1,1,1,4,1,1,""sur, este"",individual: Eléctrica,1"
+",Estudio en venta en calle Sinagoga,Ciudad Vieja - Centro,220000,43.3718761,-8.3912813,99938516.0,Estudio,130,110,,1,0,0,,0,0,""este, oeste"",,1"
+",Piso en venta en travesía De Laguna,Los Castros - Castrillón,160000,43.3493019,-8.3982517,101221399.0,Piso,55,42,,1,1,1,3,1,1,""norte, este"",individual: Gas natural,1"
+, Casa o chalet independiente en venta en vereda Polvorín,Monte Alto - Zalaeta - Atocha,270000,43.3780796,-8.4022543,100497236.0,Casa,212,,,,0,0,,0,0,,,0
+,Piso en venta en calle Vizcaya,Os Mallos,135000,43.3592004,-8.4084156,100603509.0,Piso,73,,2,1,0,1,3,0,1,sur,individual: Eléctrica,1
+,Dúplex en venta en Rafael Dieste,Los Castros - Castrillón,315000,43.3461473,-8.4036993,97117013.0,Dúplex,128,115,4,2,1,1,8,1,1,oeste,central: Gasoil,1
+",Piso en venta en Agra del Orzan,Agra del Orzán - Ventorrillo,284000,43.3641966,-8.4183836,101478856.0,Piso,102,95,2,2,0,1,6,1,1,""norte, este"",individual: Gas natural,1"
+,Dúplex en venta en paseo Marítimo,Monte Alto - Zalaeta - Atocha,570000,43.3816213,-8.408377,98540646.0,Dúplex,150,144,4,3,1,1,8,1,1,este,individual,1
+",Piso en venta en avenida del ejercito,Cuatro Caminos - Plaza de la Cubela,300000,43.3558211,-8.3978435,100891950.0,Piso,126,101,4,2,1,1,2,1,1,""norte, este"",individual: Gas natural,0"
+,Piso en venta en avenida Peruleiro,Riazor - Los Rosales,250000,43.3653542,-8.4245143,90765648.0,Piso,82,75,2,2,1,1,4,1,1,,,1
+, Chalet pareado en venta en Lugar De Loureiro,Agra del Orzán - Ventorrillo,135000,43.3691508,-8.4340469,94702063.0,Chalet,78,75,2,2,0,1,,0,0,,individual: Eléctrica,0
+",Piso en venta en calle Manuel Azaña,Riazor - Los Rosales,180000,43.3726445,-8.4260216,97230626.0,Piso,59,50,,1,1,1,3,1,1,""norte, oeste"",individual: Gas natural,1"
+, Chalet pareado en venta en Lugar Loureiro,Agra del Orzán - Ventorrillo,80000,43.3676441,-8.4338224,98775363.0,Chalet,65,58,2,,0,0,,0,0,oeste,,0
+,Piso en venta en merced,Los Castros - Castrillón,135000,43.3542639,-8.3931139,100999550.0,Piso,93,84,2,2,0,0,2,1,1,,individual: Eléctrica,1
+,Piso en venta en Juan Flórez-San Pablo,Ensanche - Juan Florez,268000,43.3623045,-8.4113483,96419523.0,Piso,110,90,3,2,0,0,1,1,1,,,1
+, Chalet pareado en venta en Lugar De Loureiro,Agra del Orzán - Ventorrillo,135000,43.3691508,-8.4340469,94702063.0,Chalet,78,75,2,2,0,1,,0,0,,individual: Eléctrica,0
+,Piso en venta en ronda de Outeiro,Agra del Orzán - Ventorrillo,135000,43.3640693,-8.423505,101471421.0,Piso,103,98,3,1,0,0,1,1,1,oeste,,0
+, Chalet pareado en venta en calle rio allones,Sagrada Familia,270000,43.3590386,-8.4145295,96681927.0,Chalet,70,60,2,1,0,1,,0,0,,,1
+", Chalet pareado en venta en Lugar Feans,Mesoiro,80000,43.3218846,-8.4293429,101311009.0,Chalet,140,128,2,1,1,1,,0,0,""norte, este, oeste"",,0"
+",Piso en venta en Agra del Orzan,Agra del Orzán - Ventorrillo,284000,43.3641966,-8.4183836,101478856.0,Piso,102,95,2,2,0,1,6,1,1,""norte, este"",individual: Gas natural,1"
+",Piso en venta en calle Manuel Azaña,Riazor - Los Rosales,180000,43.3726445,-8.4260216,97230626.0,Piso,59,50,,1,1,1,3,1,1,""norte, oeste"",individual: Gas natural,1"
+,Piso en venta en Juan Flórez-San Pablo,Ensanche - Juan Florez,268000,43.3623045,-8.4113483,96419523.0,Piso,110,90,3,2,0,0,1,1,1,,,1
+,Piso en venta en calle Ribeira Sacra,Mesoiro,186000,43.3239923,-8.4405339,101346700.0,Piso,103,94,3,2,1,1,5,1,1,oeste,individual: Gas natural,1
+, Chalet adosado en venta en calle Washinton,Monte Alto - Zalaeta - Atocha,283000,43.3779536,-8.4075861,94179318.0,Chalet,180,160,6,2,0,1,,0,0,,,0
+",Piso en venta en ronda de Outeiro,Agra del Orzán - Ventorrillo,239900,43.3598372,-8.4206546,101890567.0,Piso,132,114,4,2,0,1,5,1,1,""norte, sur"",,1"
+",Piso en venta en Mesoiro,A Coruña,190000,43.3260198,-8.4302831,100023846.0,Piso,95,85,3,2,1,1,1,1,1,""sur, este, oeste"",individual: Gas natural,1"
+",""Piso en venta en avenida de Monelos, 115"",Someso - Matogrande,155000,43.3469423,-8.4014389,101657517.0,Piso,94,,3,2,1,1,6,1,1,""sur, este"",central: Gas natural,1"
+",Piso en venta en calle do Socorro,Monte Alto - Zalaeta - Atocha,220000,43.373303,-8.4036078,100175999.0,Piso,68,,2,1,0,1,8,1,1,""sur, oeste"",central,1"
+",""Piso en venta en Orillamar, 36"",Monte Alto - Zalaeta - Atocha,210000,43.3748063,-8.3947389,101720221.0,Piso,85,,2,1,0,0,2,1,1,""sur, oeste"",individual,1"
+,Piso en venta en calle Luna,Monte Alto - Zalaeta - Atocha,255000,43.3797814,-8.4007195,100311661.0,Piso,60,,2,1,0,0,1,1,1,,central,1
+",Piso en venta en calle Vila de Carral,Monte Alto - Zalaeta - Atocha,195000,43.3789242,-8.4053227,100002711.0,Piso,67,,3,2,0,0,1,1,1,""sur, este"",individual: Eléctrica,0"
+,Piso en venta en calle San Rosendo,Os Mallos,150000,43.3536823,-8.4135189,99195965.0,Piso,85,80,5,1,0,1,3,1,1,,,0
+, Chalet pareado en venta en Sagrada Familia,A Coruña,345000,43.3601719,-8.4164077,94121947.0,Chalet,205,,3,2,1,0,,0,0,,,0
+",Piso en venta en ronda de Outeiro,Riazor - Los Rosales,248000,43.374388,-8.4238367,101675400.0,Piso,75,66,2,2,1,1,7,1,1,""norte, este"",individual: Gas natural,1"
+",""Piso en venta en ronda de Monte Alto, 44"",Monte Alto - Zalaeta - Atocha,320000,43.3814078,-8.4050574,101883298.0,Piso,90,,2,2,1,1,,1,0,""sur, este"",individual,1"
+",""Piso en venta en ronda monte alto, 54"",Monte Alto - Zalaeta - Atocha,425000,43.38113,-8.4062699,101891008.0,Piso,114,98,2,2,1,1,,1,0,""norte, sur"",central: Gas,1"
+",""Piso en venta en Fernando González, 7"",Ensanche,505000,43.3638022,-8.4076567,101928331.0,Piso,213,173,5,3,0,0,7,1,1,,central,0"
+",Piso en venta en paseo de los Puentes,Paseo de los Puentes-Santa Margarita,480000,43.3620014,-8.415778,100115375.0,Piso,117,101,3,2,1,1,6,1,1,""sur, este"",individual: Gas natural,1"
+",""Piso en venta en Cabañas, 7"",Someso - Matogrande,55000,43.3399258,-8.4114925,101951368.0,Piso,80,71,2,1,0,0,,1,0,,,0"
+",Piso en venta en plaza de María Pita,Ciudad Vieja - Centro,575000,43.3692475,-8.3970116,98812890.0,Piso,107,97,3,2,0,0,5,1,1,""este, oeste"",individual: Gas natural,0"
+,Piso en venta en calle Enrique Mariñas Romero,Someso - Matogrande,135000,43.3408343,-8.4069719,98914239.0,Piso,49,,2,1,0,0,7,1,1,,individual,1
+",Piso en venta en Lugar de Palavea Vieja,Elviña - A Zapateira,74000,43.3298763,-8.3949632,101255429.0,Piso,43,,,1,0,0,2,0,1,""sur, este"",individual: Eléctrica,0"
+",Piso en venta en calle Novoa Santos,Cuatro Caminos - Plaza de la Cubela,259000,43.3580391,-8.3985399,99814186.0,Piso,94,,3,2,0,0,5,1,1,""sur, oeste"",individual,1"
+",Piso en venta en calle Novoa Santos,Cuatro Caminos - Plaza de la Cubela,259000,43.3547083,-8.39862,100168631.0,Piso,94,,3,2,0,0,5,1,1,""sur, oeste"",individual,1"
+",Piso en venta en Santa Cecilia,Monte Alto - Zalaeta - Atocha,128000,43.3791193,-8.4016986,101888506.0,Piso,70,66,2,1,0,0,2,0,1,""sur, este"",individual,1"
+",Piso en venta en Santa Cecilia,Monte Alto - Zalaeta - Atocha,128000,43.3791193,-8.4016986,101888506.0,Piso,70,66,2,1,0,0,2,0,1,""sur, este"",individual,1"
+",""Piso en venta en san isidoro, 15"",Sagrada Familia,125000,43.3599487,-8.4163827,101930190.0,Piso,70,65,3,1,0,0,2,0,1,oeste,individual: Eléctrica,1"
+",Piso en venta en ronda de Outeiro,Agra del Orzán - Ventorrillo,239900,43.3597955,-8.4195212,101736986.0,Piso,132,114,4,2,0,1,5,1,1,""norte, sur"",,1"
+", Casa o chalet independiente en venta en paseo de Ronda,Ciudad Jardín,1199500,43.365999,-8.4174288,100549325.0,Casa,300,265,4,3,1,1,,0,0,""norte, sur, este, oeste"",individual,1"
+","" Casa o chalet independiente en venta en Nueva York, 36"",Elviña - A Zapateira,500000,43.3236801,-8.4080221,100591779.0,Casa,400,,5,5,1,0,,0,0,""norte, este"",individual,1"
+,Piso en venta en carretera de Eiris s/n,Someso - Matogrande,110000,43.3411328,-8.3959195,98619825.0,Piso,102,80,2,2,0,1,1,0,1,este,,0
+",""Piso en venta en travesía Hogar Calvo Sotelo, 2"",Riazor - Los Rosales,400000,43.3726041,-8.4198913,97523993.0,Piso,70,65,2,2,1,0,6,1,1,sur,central: Gas,1"
+,Piso en venta en calle San Vicente s/n,Os Mallos,195000,43.3545329,-8.411547,98509549.0,Piso,133,115,2,2,0,0,,0,0,sur,individual: Bomba de frío/calor,0
+, Casa o chalet independiente en venta en camino Eirís,Eirís,298000,43.3389938,-8.3965963,99501917.0,Casa,310,260,4,4,1,1,,0,0,,central: Gasoil,1
+",""Piso en venta en avenida Oza, 16"",Cuatro Caminos - Plaza de la Cubela,280000,43.3560685,-8.4029604,101693808.0,Piso,191,160,5,2,0,0,3,1,1,,individual,0"
+,Piso en venta en avenida San Roque de Afuera esquina C/ Marcela e Elisa s/n,Riazor - Los Rosales,342000,43.3714122,-8.4188299,101888867.0,Piso,97,63,2,2,1,1,2,1,1,,,0
+,Piso en venta en avenida San Roque de Afuera esquina C/ Marcela e Elisa s/n,Riazor - Los Rosales,662000,43.3714122,-8.4188299,101888866.0,Piso,165,103,4,2,1,1,3,1,1,,,0
+,Piso en venta en José Vázquez Rozas,Someso - Matogrande,250000,43.337694,-8.4085337,101813151.0,Piso,116,100,3,2,1,1,13,1,1,,central: Gasoil,1
+,Piso en venta en avenida San Roque de Afuera esquina C/ Marcela e Elisa s/n,Riazor - Los Rosales,478000,43.3714122,-8.4188299,101888851.0,Piso,137,84,3,2,1,1,2,1,1,,,0
+,Piso en venta en avenida de Oza,Los Castros - Castrillón,198000,43.3545419,-8.3964524,100455224.0,Piso,103,,4,2,0,0,3,1,1,,,0
+,Piso en venta en calle Estrella,Ensanche,347000,43.3694851,-8.4044125,101798289.0,Piso,106,97,3,2,0,0,3,1,1,,,0
+,Dúplex en venta en calle Fariña Ferreño,Los Castros - Castrillón,180000,43.352016,-8.3955376,101173723.0,Dúplex,105,83,3,2,0,0,6,1,1,este,,0
+",""Piso en venta en avenida de Oza, 57"",Los Castros - Castrillón,87000,43.3542445,-8.3954447,99244794.0,Piso,71,70,2,1,0,0,5,0,1,""sur, oeste"",individual,1"
+",Piso en venta en plaza Padre José Rubinos,Os Mallos,125000,43.3562857,-8.4138543,100940484.0,Piso,64,,2,1,0,0,3,0,1,""sur, oeste"",individual,1"
+,Piso en venta en avenida de Monelos,Los Castros - Castrillón,95000,43.3448873,-8.3984875,101335521.0,Piso,75,,3,1,0,1,3,0,1,sur,,1
+, Casa o chalet independiente en venta en camino a Regueira,Eirís,398000,43.3410418,-8.3936782,99927651.0,Casa,250,203,5,2,1,0,,0,0,,individual: Gas propano/butano,0
+",Piso en venta en calle Fernando González,Ensanche,500000,43.3621641,-8.4089244,101173914.0,Piso,213,173,5,3,1,1,3,1,1,""norte, oeste"",central,1"
+,Piso en venta en calle Juana de Vega,Ensanche,500000,43.3680513,-8.4046231,99406514.0,Piso,196,,4,3,0,0,2,1,1,sur,central,1
+,Dúplex en venta en calle Fariña Ferreño,Los Castros - Castrillón,180000,43.3520119,-8.3929418,101160297.0,Dúplex,105,83,3,2,0,0,6,1,1,este,,0
+,Piso en venta en calle José Pascual López-Cortón,Someso - Matogrande,260000,43.3355209,-8.4105296,99021404.0,Piso,95,90,3,2,1,0,15,1,1,,individual: Gas natural,1
+",""Dúplex en venta en José Pascual López Cortón, 4"",Someso - Matogrande,525000,43.3373853,-8.4104,100511603.0,Dúplex,203,195,4,3,1,1,16,1,1,""norte, oeste"",central,1"
+",""Piso en venta en Riazor, 7"",Juan Flórez-San Pablo,295000,43.3673303,-8.410434,101927975.0,Piso,126,,4,1,0,0,4,0,1,oeste,individual: Eléctrica,0"
+,Piso en venta en calle José Pascual López-Cortón,Someso - Matogrande,260000,43.3360383,-8.4085225,98449565.0,Piso,95,90,3,2,1,0,15,1,1,,individual: Gas natural,1
+, Chalet adosado en venta en calle Budapest,Elviña - A Zapateira,377000,43.3141551,-8.4178376,101929694.0,Chalet,235,200,3,4,1,1,,0,0,,individual: Gas natural,1
+,Ático en venta en calle Disciplina,Monte Alto - Zalaeta - Atocha,200000,43.3763242,-8.4000095,96378301.0,Ático,80,75,,1,0,0,5,0,1,sur,individual: Eléctrica,1
+",Piso en venta en avenida Rubine,Juan Flórez-San Pablo,630000,43.3689905,-8.4101679,100884093.0,Piso,273,,4,4,0,0,5,1,1,""sur, este"",individual,1"
+","" Casa o chalet independiente en venta en Virrey Osorio, 41"",Ciudad Jardín,2300000,43.3661881,-8.4190549,101722933.0,Casa,479,360,5,6,1,0,,0,0,,individual: Gas propano/butano,1"
+",""Piso en venta en Arquitecto Rey Pedreira, 9"",Riazor - Los Rosales,260000,43.3676094,-8.4223899,101852561.0,Piso,90,,3,2,0,0,4,1,1,""norte, sur, este"",individual,1"
+",""Piso en venta en carretera de Visma a Mazaido, 4"",Agra del Orzán - Ventorrillo,150000,43.3681181,-8.4319422,101546637.0,Piso,85,80,2,2,1,1,1,0,1,este,individual: Eléctrica,1"
+,Piso en venta en calle San Amaro,Monte Alto - Zalaeta - Atocha,285000,43.3820447,-8.3981719,97651292.0,Piso,110,,3,2,1,1,1,1,1,,,1
+,Piso en venta en avenida de Oza,Cuatro Caminos - Plaza de la Cubela,160000,43.3562106,-8.3993177,101006296.0,Piso,105,100,3,2,0,0,3,0,1,,,0
+,Piso en venta en avenida de Monelos,Los Castros - Castrillón,149900,43.3439224,-8.4014483,100879026.0,Piso,101,,4,2,0,0,2,1,1,sur,,0
+,Piso en venta en calle Federico Tapia,Ensanche,480000,43.3609117,-8.4071915,97689546.0,Piso,158,139,3,3,1,1,3,1,1,,central,1
+",Dúplex en venta en calle José María Hernansáez,Los Castros - Castrillón,178000,43.3510258,-8.3940332,101229847.0,Dúplex,101,,3,2,0,1,6,1,1,""sur, este, oeste"",individual,1"
+,Piso en venta en Lugar Loureiro,Agra del Orzán - Ventorrillo,175000,43.3692664,-8.433629,101520389.0,Piso,120,110,2,1,0,0,,0,0,sur,,0
+, Casa o chalet independiente en venta en calle Hamburgo,Elviña - A Zapateira,1280000,43.326817,-8.3977019,101294231.0,Casa,501,420,6,5,1,0,,0,0,este,individual,1
+,Piso en venta en calle Noia,Os Mallos,260000,43.3581595,-8.4093624,101926037.0,Piso,87,,3,2,1,1,2,1,1,,,1
+, Casa o chalet independiente en venta en calle Roma,Elviña - A Zapateira,670000,43.3220575,-8.4074594,101669649.0,Casa,500,460,5,4,1,1,,0,0,sur,central: Gasoil,1
+","" Casa o chalet independiente en venta en Eiris de Abaixo, 23"",Eirís,170000,43.3395137,-8.397502,99136230.0,Casa,141,140,4,3,0,1,,0,0,""norte, sur, oeste"",,1"
+",Dúplex en venta en Federico Tapia,Ensanche,620000,43.3623354,-8.4048155,101024292.0,Dúplex,212,,6,3,1,1,8,1,1,""sur, oeste"",individual: Gasoil,1"
+",""Piso en venta en Miguel servet, 22"",Monte Alto - Zalaeta - Atocha,176000,43.3759819,-8.3967381,100120459.0,Piso,40,,,1,0,0,1,1,1,""sur, este"",,1"
+","" Chalet adosado en venta en Washington, 25"",Monte Alto - Zalaeta - Atocha,283000,43.378555,-8.4069042,98819376.0,Chalet,180,160,8,2,0,1,,0,0,este,individual: Eléctrica,1"
+",""Piso en venta en Juana de Vega, 13"",Ensanche,680000,43.3665922,-8.4057227,100780108.0,Piso,250,,12,2,0,0,2,1,1,""norte, sur, este"",,1"
+",""Dúplex en venta en paseo Marítimo, 53"",Monte Alto - Zalaeta - Atocha,570000,43.3804862,-8.4091751,99090982.0,Dúplex,145,144,4,3,1,1,8,1,1,""norte, sur, este"",individual: Eléctrica,1"
+",""Piso en venta en carretera circunvalación, 16"",Monte Alto - Zalaeta - Atocha,155000,43.3810512,-8.4086351,99754315.0,Piso,85,80,3,1,0,0,3,0,1,""sur, este"",individual,1"
+",""Ático en venta en ronda Monte Alto, 56"",Monte Alto - Zalaeta - Atocha,310000,43.3808495,-8.406444,101567696.0,Ático,64,,2,1,1,1,6,1,1,""sur, este, oeste"",individual,1"
+",""Piso en venta en calle socorro, 11"",Monte Alto - Zalaeta - Atocha,294000,43.371919,-8.4014629,98108093.0,Piso,170,160,4,2,0,0,1,1,1,""sur, este"",central,1"
+",""Dúplex en venta en San andres, 23"",Ciudad Vieja - Centro,790000,43.3708992,-8.4010831,100315248.0,Dúplex,356,330,8,4,1,1,5,1,1,""este, oeste"",individual: Eléctrica,1"
+",""Ático en venta en avenida finisterre, 265"",Vioño,309000,43.3585723,-8.420665,101316033.0,Ático,108,94,3,2,1,1,9,1,1,sur,individual: Gas natural,1"
+",""Dúplex en venta en Juan Flórez, 132"",Falperra-Santa Lucía,895000,43.3597494,-8.4061082,97610611.0,Dúplex,305,295,,2,0,0,8,1,1,""sur, este"",individual: Eléctrica,1"
+",""Piso en venta en Urb. a Coruña, Eirís"",A Coruña,140000,43.3330349,-8.3883443,101774923.0,Piso,70,62,,1,1,1,,1,0,,,0"
+",Piso en venta en travesía Orzán,Monte Alto - Zalaeta - Atocha,240000,43.3738656,-8.3998511,101690862.0,Piso,85,,3,2,0,0,2,0,1,""sur, este"",individual: Eléctrica,0"
+",""Piso en venta en Juana de vega, 33"",Ensanche,595000,43.3674901,-8.4063729,93694187.0,Piso,242,,5,5,0,1,10,1,1,,individual: Gas natural,1"
+",""Piso en venta en Fernando arenas, 4"",Ensanche,760000,43.3683579,-8.4045683,97694452.0,Piso,270,225,4,2,0,0,8,1,1,""sur, este, oeste"",individual: Gas natural,1"
+",""Piso en venta en Urb. Ciudad Jardín, Ciudad Jardín"",Ensanche - Juan Florez,340000,43.3680035,-8.419567,101656964.0,Piso,100,,4,2,1,0,1,0,1,,individual: Gas natural,1"
+,Piso en venta en plaza Pontevedra,Ensanche,698000,43.3666232,-8.4080091,97474880.0,Piso,204,153,4,4,0,1,1,1,1,,individual: Gas natural,1
+",Piso en venta en Fernando Macías s/n,Juan Flórez-San Pablo,415000,43.3661994,-8.4118742,101838617.0,Piso,120,105,3,2,0,0,4,1,1,""norte, sur"",individual: Gas natural,1"
+",Ático en venta en Dabán s/n,Eirís,225000,43.3423788,-8.3931471,101810284.0,Ático,77,61,2,1,1,1,5,1,1,""este, oeste"",central: Gas,1"
+","" Chalet pareado en venta en Río Quintas, 10 ,12(IyD)"",Eirís,460000,43.3289437,-8.385746,97964073.0,Chalet,170,,4,2,1,1,,0,0,""norte, sur, este, oeste"",,1"
+",""Dúplex en venta en avenida Montserrat, 41"",Eirís,199500,43.3348598,-8.3908842,98649766.0,Dúplex,115,81,2,1,1,1,4,1,1,""sur, oeste"",individual: Gas natural,1"
+",Piso en venta en calle Juana de Vega,Ensanche,600000,43.3680245,-8.4069128,96693299.0,Piso,242,210,5,5,0,0,10,1,1,""este, oeste"",central,1"
+",""Piso en venta en Birloque, 52"",Someso - Matogrande,130000,43.3420336,-8.4152509,101061648.0,Piso,105,93,2,2,1,1,,1,0,sur,,1"
+,Piso en venta en puerta de Aires,Ciudad Vieja - Centro,330000,43.3730912,-8.3946452,101409580.0,Piso,93,,2,2,0,0,3,1,1,oeste,individual: Eléctrica,1
+",Piso en venta en Juana de Vega,Ensanche,680000,43.3656483,-8.4075868,101579859.0,Piso,275,240,5,3,0,0,2,1,1,""este, oeste"",individual: Gas natural,1"
+,Piso en venta en San Cristobal,Someso - Matogrande,255000,43.3445323,-8.413433,100861653.0,Piso,98,95,3,2,1,1,8,1,1,sur,central: Gasoil,1
+,Piso en venta en ronda De Nelle,Os Mallos,215000,43.3568378,-8.4094877,100871047.0,Piso,115,110,4,2,0,1,6,1,1,oeste,individual: Gas propano/butano,1
+",Piso en venta en Alfonso 9,Ciudad Vieja - Centro,260000,43.3709299,-8.3956952,100478650.0,Piso,92,85,2,1,0,0,,0,0,""sur, oeste"",individual: Eléctrica,1"
+,Dúplex en venta en paseo Maritimo,Monte Alto - Zalaeta - Atocha,570000,43.3791602,-8.4095885,100191861.0,Dúplex,144,130,4,3,1,1,8,1,1,oeste,individual: Gas natural,1
+,Piso en venta en Galera,Ciudad Vieja - Centro,345000,43.3709957,-8.4009552,101121952.0,Piso,86,84,2,1,0,0,4,1,1,oeste,individual: Eléctrica,1
+",Piso en venta en Maria Puga Cerdido,Someso - Matogrande,350000,43.342577,-8.4030397,99937245.0,Piso,191,185,3,2,1,1,1,1,1,""norte, oeste"",individual: Eléctrica,0"
+",Piso en venta en Manuel Azaña s/n,Riazor - Los Rosales,180000,43.3750436,-8.4285958,100398812.0,Piso,52,46,,1,1,1,3,1,1,""norte, este"",individual: Gas natural,1"
+",""Dúplex en venta en Calvo Sotelo, 16"",Juan Flórez-San Pablo,439500,43.365043,-8.4140319,101455558.0,Dúplex,128,,3,3,1,1,8,1,1,,individual: Eléctrica,1"
+,Piso en venta en Rubine,Juan Flórez-San Pablo,630000,43.3671651,-8.4092555,100872027.0,Piso,245,220,6,5,0,0,5,1,1,oeste,individual: Gas natural,0
+",Piso en venta en calle Cm Fontanes,Ensanche,280000,43.3708662,-8.4077244,100342534.0,Piso,73,70,2,1,1,0,1,0,1,""norte, oeste"",central: Gasoil,1"
+",""Piso en venta en ronda de Nelle, 133"",Agra del Orzán - Ventorrillo,179999,43.3638673,-8.4180368,99776823.0,Piso,95,85,2,1,0,1,4,1,1,,individual: Gas natural,1"
+",Piso en venta en Galera,Ciudad Vieja - Centro,345000,43.3683517,-8.4012471,101198115.0,Piso,86,,2,1,0,0,4,1,1,""sur, este"",individual,1"
+",Piso en venta en Vila de Miño,Eirís,145000,43.3418364,-8.3984371,101336773.0,Piso,75,,2,1,0,1,3,1,1,""sur, este"",individual: Eléctrica,1"
+",Dúplex en venta en Pintor Germán Taibo,Os Mallos,120000,43.3532197,-8.4099358,101468388.0,Dúplex,88,,2,1,0,0,4,0,1,""sur, este"",,1"
+",""Piso en venta en avenida de Lamadosa, 2"",Eirís,171175,43.3458399,-8.3982663,97389043.0,Piso,82,56,,1,1,1,1,1,1,,,0"
+",""Piso en venta en avenida de Lamadosa, 2"",Eirís,195500,43.3458399,-8.3982663,97765712.0,Piso,82,56,,1,1,1,6,1,1,,,0"
+,Piso en venta en Someso - Matogrande,A Coruña,179500,43.3453192,-8.4147243,94350456.0,Piso,84,,2,1,1,1,3,1,1,,,1
+,Piso en venta en avenida Alcalde Alfonso Molina,Ensanche,675000,43.3598974,-8.4041255,100946208.0,Piso,210,,4,4,1,1,10,1,1,sur,,1
+",""Piso en venta en avenida de Lamadosa, 2"",Eirís,171500,43.3458399,-8.3982663,93735293.0,Piso,101,71,2,2,1,1,,1,0,,,0"
+,Piso en venta en calle Perez Porto,Os Mallos,210000,43.356064,-8.4089248,101296450.0,Piso,115,,4,2,0,1,7,1,1,oeste,,1
+,Ático en venta en calle Blanco White,Someso - Matogrande,126626,43.3453755,-8.4184404,97476165.0,Ático,76,62,,1,0,0,3,1,1,,individual: Eléctrica,1
+",Dúplex en venta en Rubine,Juan Flórez-San Pablo,599000,43.3674927,-8.4085859,100731647.0,Dúplex,144,133,4,4,1,1,7,1,1,""sur, este, oeste"",central: Gas natural,1"
+",Piso en venta en avenida Ejército,Los Castros - Castrillón,290000,43.3566164,-8.397196,101210522.0,Piso,120,,3,2,0,0,1,1,1,""sur, este"",individual,1"
+",Piso en venta en Ensanche,Ensanche - Juan Florez,500000,43.3642983,-8.4094813,101174366.0,Piso,213,173,5,3,1,1,3,1,1,""norte, oeste"",central,1"
+,Piso en venta en calle Riego de Agua,Ciudad Vieja - Centro,616170,43.3684814,-8.3962784,99571245.0,Piso,146,,3,2,0,0,1,1,1,,individual,1
+",Piso en venta en Montes,Los Castros - Castrillón,147000,43.3534968,-8.3998582,101145922.0,Piso,60,,,1,1,1,4,1,1,""sur, este"",individual,1"
+",""Piso en venta en Rafael Alberti, 31"",Someso - Matogrande,209999,43.3460165,-8.4074413,99288002.0,Piso,160,96,3,2,1,1,6,1,1,,,1"
+",Piso en venta en avenida San Cristóbal,Someso - Matogrande,249000,43.3418594,-8.4119096,101495032.0,Piso,125,,3,2,1,1,5,1,1,""sur, este, oeste"",individual,1"
+,Piso en venta en calle San Andrés,Ciudad Vieja - Centro,335000,43.3687529,-8.4017492,100455827.0,Piso,130,,4,2,0,1,2,0,1,,individual,0
+",""Dúplex en venta en Manuel Azaña, 50"",Riazor - Los Rosales,235000,43.375249,-8.4299647,98959029.0,Dúplex,100,85,2,2,1,1,6,1,1,,individual: Gas natural,1"
+",""Piso en venta en carretera Pasaje a el Burgo, 55"",Eirís,380000,43.3292526,-8.3832059,95290651.0,Piso,136,,3,2,1,1,1,1,1,,,0"
+",Piso en venta en calle posse s/n,Cuatro Caminos - Plaza de la Cubela,380000,43.3548092,-8.3983406,100531684.0,Piso,120,110,3,2,1,1,6,1,1,""este, oeste"",individual: Eléctrica,1"
+",""Piso en venta en carretera Pasaje a el Burgo, 55"",Eirís,400000,43.3292526,-8.3832059,98647073.0,Piso,121,,3,2,1,1,3,1,1,,,0"
+",""Piso en venta en plaza del Tebeo, 4"",Cuatro Caminos - Plaza de la Cubela,330000,43.35466,-8.40483,101854978.0,Piso,100,,3,2,1,1,4,1,1,,,1"
+,Piso en venta en calle José Pascual López-Cortón,Someso - Matogrande,225000,43.3351385,-8.4086302,99021486.0,Piso,85,73,2,2,1,1,16,1,1,,individual: Gas natural,1
+,Dúplex en venta en avenida de Montserrat s/n,Eirís,180000,43.3370658,-8.3914636,101645129.0,Dúplex,90,74,2,1,1,1,3,1,1,sur,individual: Gas natural,1
+,Piso en venta en calle San Andrés,Ciudad Vieja - Centro,335000,43.3694228,-8.4009443,100455450.0,Piso,130,,4,2,0,1,2,0,1,,individual,0
+",""Piso en venta en avenida Ferrocarril, 16"",Someso - Matogrande,205000,43.3473487,-8.414807,101667353.0,Piso,85,75,2,2,1,1,2,1,1,este,individual: Eléctrica,1"
+",Piso en venta en cuesta de la union s/n,Falperra-Santa Lucía,295000,43.361858,-8.4088676,101262076.0,Piso,96,83,3,2,0,0,8,1,1,""norte, oeste"",central: Gas,1"
+",""Piso en venta en ronda de Outeiro, 219"",Vioño,300000,43.3585768,-8.4198777,101683489.0,Piso,98,,3,2,1,1,1,1,1,sur,individual: Gas natural,1"
+",""Ático en venta en carretera Pasaje a el Burgo, 55"",Eirís,479000,43.3292526,-8.3832059,100325877.0,Ático,122,,3,2,1,1,5,1,1,,,0"
+",""Piso en venta en calle San Pedro de Visma, 34"",Riazor - Los Rosales,120000,43.3683492,-8.430086,100987708.0,Piso,53,45,,1,1,1,1,0,1,,,0"
+","" Chalet pareado en venta en Félix Rodríguez de la Fuente, 25"",Mesoiro,295000,43.3122156,-8.4403404,99417868.0,Chalet,239,,5,3,1,1,,0,0,,individual: Gas natural,1"
+,Piso en venta en calle Pascual Veiga,Agra del Orzán - Ventorrillo,150000,43.3649508,-8.419759,101510040.0,Piso,98,90,4,1,0,0,3,1,1,,,0
+",""Piso en venta en Monelos, 147"",Eirís,295000,43.3451192,-8.3987437,100902262.0,Piso,97,,3,2,1,1,6,1,1,,central: Gas,1"
+","" Chalet adosado en venta en calle o Portalón, 38"",Elviña - A Zapateira,55000,43.3346192,-8.4045889,98726785.0,Chalet,98,85,2,2,0,0,,0,0,,,0"
+","" Chalet adosado en venta en Lugar Jubias de Abajo, 46"",Eirís,275000,43.3415419,-8.3875123,98435384.0,Chalet,105,99,2,2,0,0,,0,0,oeste,individual: Eléctrica,1"
+",""Piso en venta en Juana de Vega, 33"",Ensanche,595000,43.3674901,-8.4063729,98316157.0,Piso,250,242,5,5,0,0,10,1,1,sur,individual: Gas natural,1"
+", Chalet adosado en venta en calle Eiris de Arriba s/n,Eirís,220000,43.342639,-8.3948056,98620512.0,Chalet,122,105,4,2,1,0,,0,0,""sur, este"",,0"
+",Piso en venta en Juana de Vega,Ensanche,950000,43.3664008,-8.4048587,93883083.0,Piso,155,145,3,2,1,1,5,1,1,""sur, oeste"",individual: Gas natural,1"
+","" Chalet adosado en venta en Lugar Jubias de Abajo, 46"",Eirís,275000,43.3415419,-8.3875123,98435384.0,Chalet,105,99,2,2,0,0,,0,0,oeste,individual: Eléctrica,1"
+",Piso en venta en ronda de Outeiro,Agra del Orzán - Ventorrillo,239900,43.3603388,-8.4225522,101753368.0,Piso,132,114,4,2,0,1,5,1,1,""norte, sur"",,1"
+,Ático en venta en calle Félix Acevedo,Someso - Matogrande,230000,43.3393258,-8.4105611,101689517.0,Ático,120,90,3,2,1,1,6,1,1,,individual: Gas natural,0
+,Piso en venta en travesía da Laguna. s/n,Los Castros - Castrillón,160000,43.348488,-8.3987533,99355269.0,Piso,54,44,,1,1,1,3,1,1,,individual: Gas natural,1
+,Piso en venta en avenida de Oza,Cuatro Caminos - Plaza de la Cubela,279900,43.3560859,-8.3995866,101809925.0,Piso,76,70,3,2,0,0,2,1,1,,individual: Gas natural,1
+,Piso en venta en calle José Luis Pérez Cepeda,Juan Flórez-San Pablo,399000,43.3644753,-8.4133552,101663594.0,Piso,116,109,3,2,0,0,1,1,1,,individual,1
+",Estudio en venta en calle Sinagoga,Ciudad Vieja - Centro,220000,43.3713895,-8.3931328,99853391.0,Estudio,130,110,,1,0,0,,0,0,""este, oeste"",individual: Eléctrica,1"
+",""Piso en venta en ronda De Outerio, 245"",Agra del Orzán - Ventorrillo,220000,43.3606044,-8.4213737,96351033.0,Piso,95,85,2,2,0,0,10,1,1,""norte, sur"",individual,0"
+, Casa o chalet independiente en venta en Nueva York,Elviña - A Zapateira,500000,43.3355901,-8.4048126,101781594.0,Casa,400,,5,5,1,0,,0,0,sur,individual: Bomba de frío/calor,1
+",Dúplex en venta en calle Petunias s/n,Someso - Matogrande,140000,43.3438931,-8.4019505,99041337.0,Dúplex,120,111,5,2,1,1,4,1,1,""norte, sur, oeste"",,1"
+,Piso en venta en calle Federico Tapia,Ensanche,620000,43.3622181,-8.4044331,99934874.0,Piso,190,,6,2,1,1,8,1,1,,,1
+",""Dúplex en venta en paseo Marítimo, 16"",Monte Alto - Zalaeta - Atocha,570000,43.3815489,-8.4095124,98340844.0,Dúplex,154,144,4,3,1,1,8,1,1,sur,individual: Gas propano/butano,1"
+",""Piso en venta en avenida Linares Rivas, 56"",Ensanche,750000,43.3612389,-8.4057254,101749932.0,Piso,249,217,6,3,0,1,4,1,1,este,individual: Gas natural,1"
+",""Piso en venta en Riazor, 9"",Juan Flórez-San Pablo,435000,43.3671892,-8.4106046,101727467.0,Piso,190,175,5,3,1,1,5,1,1,""este, oeste"",central: Gasoil,1"
+",Piso en venta en Almirante Lángara,Riazor - Los Rosales,315000,43.3679224,-8.4215644,100189745.0,Piso,107,103,3,2,0,1,7,1,1,""sur, oeste"",central: Gasoil,1"
+",""Piso en venta en calle Estrada Pasaxe ao Burgo, 39"",Eirís,490000,43.3296339,-8.3835232,98909039.0,Piso,111,94,3,2,0,0,5,1,1,,,0"
+",""Piso en venta en avenida de Labañou, 7"",Riazor - Los Rosales,157000,43.3740675,-8.4235633,101724307.0,Piso,64,53,2,1,0,0,1,1,1,""sur, este"",individual: Eléctrica,1"
+",""Piso en venta en calle Estrada Pasaxe ao Burgo, 39"",Eirís,330000,43.3296339,-8.3835232,98900433.0,Piso,107,92,3,2,0,0,1,1,1,,,0"
+",Piso en venta en novoa santos,Cuatro Caminos - Plaza de la Cubela,198000,43.3561294,-8.4017007,101795053.0,Piso,88,80,3,2,0,0,1,1,1,""este, oeste"",individual: Eléctrica,1"
+",Piso en venta en ronda De Montealto,Monte Alto - Zalaeta - Atocha,425000,43.3820267,-8.4046931,101871804.0,Piso,114,98,2,2,1,1,,1,0,""sur, este"",individual: Gas natural,1"
+",""Piso en venta en calle Estrada Pasaxe ao Burgo, 39"",Eirís,239000,43.3296339,-8.3835232,98900432.0,Piso,79,69,2,2,0,0,,1,0,,,0"
+,Piso en venta en avenida san cristobal,Someso - Matogrande,250000,43.3438598,-8.4128202,101809281.0,Piso,110,100,3,2,1,1,8,1,1,sur,central: Gasoil,1
+,Piso en venta en avenida Javier López López,Los Castros - Castrillón,160000,43.3464011,-8.4016016,101827229.0,Piso,105,100,3,2,0,0,3,1,1,,,1
+,Piso en venta en Novoa Santos,Cuatro Caminos - Plaza de la Cubela,198000,43.3562087,-8.4012662,101825686.0,Piso,80,,3,2,0,0,1,1,1,,individual: Eléctrica,1
+",Piso en venta en avenida de Monelos,Los Castros - Castrillón,145000,43.3463283,-8.3984889,101389672.0,Piso,75,,2,1,0,1,3,1,1,""sur, oeste"",individual,1"
+,Piso en venta en calle Buenavista,Los Castros - Castrillón,195000,43.3512752,-8.387563,101198755.0,Piso,93,,2,2,1,1,1,0,1,este,individual: Gas natural,1
+,Piso en venta en calle San Pedro de Visma,Riazor - Los Rosales,120000,43.3663544,-8.4284158,100986687.0,Piso,53,45,,1,1,1,1,0,1,,,0
+,Piso en venta en calle Cantón Pequeno,Ensanche,1700000,43.3655597,-8.4056587,87897984.0,Piso,219,,5,4,1,1,7,1,1,,,1
+",Piso en venta en avenida de Monelos,Los Castros - Castrillón,145000,43.3463283,-8.3984889,101389672.0,Piso,75,,2,1,0,1,3,1,1,""sur, oeste"",individual,1"
+",Piso en venta en Cuatro Caminos s/n,Cuatro Caminos - Plaza de la Cubela,440000,43.3572323,-8.4042254,39939788.0,Piso,119,,3,2,1,1,6,1,1,""este, oeste"",individual: Bomba de frío/calor,1"
+",Piso en venta en avenida de Oza,Los Castros - Castrillón,230000,43.351923,-8.3892367,89274590.0,Piso,105,95,3,2,1,1,3,1,1,""norte, sur"",individual: Gas natural,1"
+,Piso en venta en calle Alfredo Vicenti,Juan Flórez-San Pablo,399000,43.3682436,-8.4109224,95274191.0,Piso,152,140,4,3,0,1,9,1,1,sur,central: Gas,0
+","" Casa o chalet independiente en venta en calle Eirís de Arriba, 73"",Eirís,220000,43.343359,-8.3946443,99136730.0,Casa,122,120,2,2,1,1,,0,0,""este, oeste"",,1"
+,Piso en venta en calle Tabernas,Ciudad Vieja - Centro,640000,43.37089,-8.3945476,85781328.0,Piso,214,198,5,3,0,1,,1,0,,individual: Eléctrica,0
+",Piso en venta en calle Novoa Santos,Cuatro Caminos - Plaza de la Cubela,259000,43.3552129,-8.3994395,99896183.0,Piso,94,,3,2,0,0,5,1,1,""sur, oeste"",individual,1"
+,Ático en venta en calle Cancela de Afuera,Paseo de los Puentes-Santa Margarita,290000,43.3596124,-8.4142821,98100108.0,Ático,82,72,2,2,1,1,5,1,1,,individual,0
+", Casa o chalet independiente en venta en calle Paris,Elviña - A Zapateira,625000,43.3270958,-8.396343,98310552.0,Casa,410,380,7,5,1,1,,0,0,""sur, este, oeste"",individual: Eléctrica,1"
+",Piso en venta en Martínez Salazar (Ciudad Jardín),Ciudad Jardín,340000,43.3675285,-8.4194402,101645445.0,Piso,100,,4,2,1,1,1,0,1,""norte, sur, este, oeste"",individual: Gas natural,1"
+",Piso en venta en avenida Finisterre,Sagrada Familia,95000,43.3590822,-8.4167525,96682955.0,Piso,53,45,,1,0,0,2,1,1,""sur, este"",individual: Eléctrica,0"
+",""Dúplex en venta en calle Valencia, 2 a"",Monte Alto - Zalaeta - Atocha,205000,43.3797298,-8.4012137,100337743.0,Dúplex,100,,3,2,0,1,,0,0,""sur, este"",individual: Gas natural,1"
+","" Casa o chalet independiente en venta en vereda Polvorín, 60"",Monte Alto - Zalaeta - Atocha,270000,43.3792307,-8.4010103,100702873.0,Casa,210,,5,2,0,0,,0,0,""norte, sur, este, oeste"",,0"
+",Piso en venta en Juana De Vega,Ensanche,500000,43.3681928,-8.4047631,96324695.0,Piso,180,160,4,3,1,0,2,1,1,""este, oeste"",central: Gasoil,0"
+,Dúplex en venta en calle Fariña Ferreño,Los Castros - Castrillón,180000,43.3497768,-8.3955322,101183152.0,Dúplex,105,83,3,2,0,0,6,1,1,este,,0
+",""Piso en venta en Alcalde Alfonso Molina, 15005"",Cuatro Caminos - Plaza de la Cubela,850000,43.3615698,-8.4052927,101132870.0,Piso,266,227,5,3,1,1,11,1,1,""este, oeste"",central: Gasoil,1"
+,Dúplex en venta en avenida Fernández Latorre,Cuatro Caminos - Plaza de la Cubela,440000,43.3578214,-8.4036568,97972107.0,Dúplex,170,146,4,3,0,1,,1,0,,individual: Gas natural,1
+,Piso en venta en Cantón Pequeño,Ensanche,795000,43.3657844,-8.4060489,101067574.0,Piso,125,,2,2,1,1,5,1,1,sur,central: Gasoil,1
+",""Estudio en venta en Disciplina, 6"",Monte Alto - Zalaeta - Atocha,215000,43.3744931,-8.3992238,100119734.0,Estudio,80,,,1,0,0,5,0,1,""sur, este"",individual,0"
+",""Piso en venta en calle azucenas, 125"",Someso - Matogrande,175000,43.3436677,-8.3999336,94915053.0,Piso,80,,3,2,0,0,3,0,1,sur,individual,1"
+,Piso en venta en Rafael Alberti,Someso - Matogrande,245000,43.3453097,-8.4067984,99962306.0,Piso,96,,4,2,1,1,4,1,1,oeste,,1
+,Piso en venta en plaza Padre José Rubinos,Os Mallos,105000,43.3536798,-8.4152651,100442387.0,Piso,84,74,3,1,0,0,2,0,1,,individual: Eléctrica,1
+,Dúplex en venta en calle Sebastián Martínez Risco,Someso - Matogrande,325000,43.3426182,-8.4057344,101579530.0,Dúplex,125,111,3,3,1,1,6,1,1,,,0
+,Piso en venta en Primavera,Cuatro Caminos - Plaza de la Cubela,280000,43.3578659,-8.4038963,93591224.0,Piso,113,,5,2,0,0,3,1,1,este,,1
+,Piso en venta en Doctor Fleming,Falperra-Santa Lucía,175000,43.3590992,-8.4082352,96245916.0,Piso,103,,3,2,0,0,2,1,1,este,individual: Gas natural,1
+",""Piso en venta en avenida de Monelos, 147"",Eirís,250000,43.3451192,-8.3987437,101415881.0,Piso,96,,3,2,1,1,3,1,1,""sur, este"",individual: Gas natural,1"
+",""Piso en venta en avenida de Arteixo, 10"",Juan Flórez-San Pablo,419000,43.3635345,-8.4091062,99311826.0,Piso,145,,3,2,1,0,4,1,1,sur,individual,1"
+",""Piso en venta en avenida del Ejército, 44"",Los Castros - Castrillón,299500,43.3545343,-8.3951842,101642148.0,Piso,144,,3,2,0,0,3,1,1,,individual,1"
+,Piso en venta en Alejandro Barreiro Noya,Los Castros - Castrillón,500000,43.3552387,-8.3966362,101702410.0,Piso,206,182,5,3,0,1,11,1,1,,individual: Eléctrica,1
+,Piso en venta en Estrecha de San Andrés,Ciudad Vieja - Centro,290000,43.3727233,-8.3978956,100600520.0,Piso,120,,4,3,0,0,2,1,1,este,central,1
+",""Piso en venta en avenida del Ejército, 44"",Los Castros - Castrillón,299500,43.3545343,-8.3951842,101642148.0,Piso,144,,3,2,0,0,3,1,1,,individual,1"
+",""Piso en venta en calle Amargura, 33"",Ciudad Vieja - Centro,390000,43.3708829,-8.3937318,99548505.0,Piso,92,85,3,2,0,0,2,1,1,""este, oeste"",individual: Bomba de frío/calor,1"
+,Piso en venta en Los Castros - Castrillón,A Coruña,250000,43.3555343,-8.3958725,98122300.0,Piso,98,90,2,2,0,0,4,1,1,sur,individual: Eléctrica,0
+,Piso en venta en Monte Alto - Zalaeta - Atocha,A Coruña,292600,43.3752493,-8.3997606,100108419.0,Piso,75,68,2,1,1,0,7,1,1,sur,,0
+, Chalet adosado en venta en calle Eirís de Abaixo,Eirís,170000,43.3375935,-8.3964367,98624800.0,Chalet,138,105,5,3,0,0,,0,0,sur,,0
+, Chalet adosado en venta en Praga,Elviña - A Zapateira,380000,43.315819,-8.4221911,101593498.0,Chalet,250,215,6,3,1,1,,0,0,sur,individual: Gas natural,1
+", Chalet pareado en venta en avenida Pasaxe,Eirís,1200000,43.3448295,-8.3877663,96988239.0,Chalet,450,370,4,3,1,1,,0,0,""sur, este"",individual: Gas propano/butano,1"
+,Piso en venta en plaza Pintor Manuel Colmeiro,Someso - Matogrande,154500,43.3475744,-8.4121532,101584372.0,Piso,90,85,3,1,0,0,1,1,1,sur,individual: Eléctrica,1
+",Piso en venta en azucenas,Someso - Matogrande,175000,43.3428633,-8.4021545,101467723.0,Piso,90,80,3,2,0,0,3,0,1,""sur, este"",individual: Eléctrica,1"
+", Casa o chalet independiente en venta en calle Rio Ulla Touro,Sagrada Familia,210000,43.3598727,-8.4146408,96467735.0,Casa,75,70,3,1,0,1,,0,0,""sur, este"",,0"
+",Piso en venta en calle Montes,Los Castros - Castrillón,150000,43.3518399,-8.3991847,100150099.0,Piso,57,55,,1,0,0,4,1,1,""sur, este"",,1"
+,Piso en venta en calle Vizcaya,Os Mallos,135000,43.3566647,-8.4126931,100454223.0,Piso,78,70,2,1,0,1,3,0,1,sur,individual: Eléctrica,1
+,Piso en venta en calle Panamá,Agra del Orzán - Ventorrillo,140000,43.3607782,-8.420663,101206640.0,Piso,89,76,4,2,0,1,4,1,1,,,0
+,Piso en venta en calle la Torre,Monte Alto - Zalaeta - Atocha,175000,43.3733988,-8.3959243,101179186.0,Piso,100,98,2,1,0,0,1,0,1,,individual: Gas natural,0
+,Piso en venta en calle Joaquín Martín Martínez,Someso - Matogrande,155000,43.3409189,-8.4158287,100908438.0,Piso,90,,3,2,0,0,2,1,1,sur,individual: Eléctrica,1
+, Casa o chalet independiente en venta en calle Castaño de Eirís,Eirís,790000,43.3407281,-8.3924352,40242583.0,Casa,350,,6,2,1,1,,0,0,,,1
+,Piso en venta en calle de José Luis Bugallal Marchesi,Someso - Matogrande,110000,43.3481752,-8.4080985,101010484.0,Piso,87,76,3,1,0,0,3,1,1,,,1
+,Piso en venta en calle Andres Martinez Salazar,Ciudad Jardín,340000,43.3680119,-8.4190884,95446571.0,Piso,100,,4,2,1,0,2,0,1,,,1
+,Piso en venta en avenida Ferrocarril,Os Mallos,319000,43.3457053,-8.4196488,101234625.0,Piso,88,,3,2,1,1,6,1,1,,,1
+,Piso en venta en Nicaragua,Juan Flórez-San Pablo,269900,43.3630454,-8.4122014,100740614.0,Piso,106,,4,2,0,0,3,1,1,sur,individual,1
+,Dúplex en venta en calle Fariña Ferreño,Los Castros - Castrillón,180000,43.3521228,-8.3936655,101170435.0,Dúplex,105,,3,2,0,0,6,1,1,,,0
+,Piso en venta en avenida Finisterre,Agra del Orzán - Ventorrillo,95000,43.3598947,-8.4181086,92505264.0,Piso,54,,,1,0,0,2,1,1,,,1
+,Piso en venta en calle Falperra,Os Mallos,152000,43.3584518,-8.409412,101187995.0,Piso,60,,,1,0,1,2,1,1,,,1
+,Piso en venta en calle Juan Flórez,Ensanche,380000,43.3638135,-8.4091678,100921926.0,Piso,150,,3,2,0,0,3,1,1,,,1
+,Piso en venta en calle Fernando González,Ensanche,500000,43.3619633,-8.4059868,101183385.0,Piso,213,,5,3,0,1,3,1,1,,,1
+",Piso en venta en calle Padre Sarmiento,Paseo de los Puentes-Santa Margarita,230000,43.3594462,-8.4118741,101824271.0,Piso,118,,5,2,0,0,1,1,1,""sur, este"",individual: Eléctrica,1"
+,Piso en venta en calle San Andrés,Monte Alto - Zalaeta - Atocha,425000,43.3694276,-8.4026045,98765720.0,Piso,155,,2,2,0,1,3,1,1,,,1
+",""Piso en venta en Oza, 130"",Los Castros - Castrillón,390000,43.3534733,-8.3935852,97879630.0,Piso,145,126,3,2,0,0,2,1,1,,individual: Bomba de frío/calor,1"
+,Piso en venta en calle Alcalde Peñamaría de Llano,Agra del Orzán - Ventorrillo,170000,43.3598917,-8.4280401,99872342.0,Piso,86,78,3,2,1,1,5,1,1,este,,1
+,Piso en venta en calle Fernando González,Ensanche,500000,43.3619633,-8.4059868,101183385.0,Piso,213,,5,3,0,1,3,1,1,,,1
+",Piso en venta en calle orzán,Monte Alto - Zalaeta - Atocha,220000,43.3716557,-8.4037138,100765282.0,Piso,60,,,1,0,0,,0,0,""sur, este"",individual: Eléctrica,0"
+,Piso en venta en calle Félix Acevedo,Someso - Matogrande,124000,43.339945,-8.4089674,101604112.0,Piso,78,,3,1,0,1,5,1,1,este,,0
+",Piso en venta en Pla y Cancela,Falperra-Santa Lucía,310000,43.3599547,-8.4113074,101183163.0,Piso,109,87,3,2,1,1,3,1,1,""sur, oeste"",individual: Bomba de frío/calor,1"
+",Piso en venta en avenida de Oza,Cuatro Caminos - Plaza de la Cubela,390000,43.3538677,-8.4005497,100686656.0,Piso,168,138,3,2,0,0,2,1,1,""norte, sur"",individual: Bomba de frío/calor,1"
+",""Piso en venta en juan castro mosquera, 16"",Falperra-Santa Lucía,136000,43.3593672,-8.4077357,100914779.0,Piso,65,58,2,2,0,0,,0,0,sur,individual: Eléctrica,0"
+",Piso en venta en avenida de Oza,Cuatro Caminos - Plaza de la Cubela,425000,43.3546494,-8.4010176,100682733.0,Piso,168,138,3,2,0,0,1,1,1,""norte, sur"",individual: Bomba de frío/calor,1"
+,Piso en venta en calle José González Chas,Cuatro Caminos - Plaza de la Cubela,334000,43.3522639,-8.399238,100657489.0,Piso,103,85,3,2,1,1,1,1,1,,individual: Gas natural,1
+",""Piso en venta en calle Barcelona, 17"",Agra del Orzán - Ventorrillo,179999,43.360076,-8.419943,100729290.0,Piso,114,102,4,2,0,0,2,1,1,,,1"
+",Dúplex en venta en Emilio Gonzalez Lopez,Riazor - Los Rosales,285000,43.372609,-8.4320549,100483120.0,Dúplex,120,,3,3,1,1,8,1,1,""sur, oeste"",individual: Gas natural,1"
+,Piso en venta en Juana de Vega,Ensanche,555000,43.3665134,-8.4043666,101928176.0,Piso,123,,4,3,0,0,8,1,1,sur,individual: Bomba de frío/calor,1
+,Piso en venta en avenida del ejército,Cuatro Caminos - Plaza de la Cubela,248000,43.3559208,-8.3972623,99969769.0,Piso,106,,,2,1,1,1,1,1,este,,1
+",Piso en venta en Pla y Cancela,Falperra-Santa Lucía,285000,43.3591,-8.408542,97265416.0,Piso,109,87,3,2,1,1,4,1,1,""sur, oeste"",individual: Bomba de frío/calor,1"
+,Piso en venta en avenida Finisterre,Juan Flórez-San Pablo,198000,43.36331,-8.41051,99082282.0,Piso,88,,3,1,0,0,5,1,1,sur,,0
+", Casa o chalet independiente en venta en Elviña - a Zapateira,A Coruña,890000,43.3223395,-8.4066892,101834778.0,Casa,398,350,4,6,1,1,,0,0,""sur, oeste"",individual,1"
+,Piso en venta en avenida Oza,Los Castros - Castrillón,110000,43.3548537,-8.3937529,101256246.0,Piso,105,96,3,2,0,0,5,0,1,sur,,0
+", Chalet adosado en venta en calle Río Ulla,Sagrada Familia,210000,43.3573076,-8.4174078,101473094.0,Chalet,66,,2,1,0,0,,0,0,""sur, este"",,1"
+, Chalet adosado en venta en Lugar Eiris Abaixo s/n,Eirís,170000,43.3398633,-8.397276,99203773.0,Chalet,141,131,5,3,0,1,,0,0,oeste,,0
+,Piso en venta en calle Ramón y Cajal s/n,Cuatro Caminos - Plaza de la Cubela,474000,43.3568625,-8.4013181,97096000.0,Piso,139,,4,2,0,1,,1,0,,,0
+, Casa o chalet independiente en venta en Rue Vicente Vázquez Queipo,Mesoiro,595000,43.3123751,-8.4419559,89322806.0,Casa,527,500,6,4,1,0,,0,0,,individual,1
+,Dúplex en venta en carretera Eiris s/n,Eirís,110000,43.3411328,-8.3959195,99226951.0,Dúplex,93,85,2,2,0,0,1,0,1,sur,individual: Eléctrica,0
+,Piso en venta en Martinete,Someso - Matogrande,190000,43.3384512,-8.4204028,101324721.0,Piso,88,77,3,2,1,1,1,1,1,,central,1
+,Ático en venta en plaza de María Pita,Ciudad Vieja - Centro,575000,43.3717529,-8.3950452,98465441.0,Ático,107,92,3,2,0,1,5,1,1,oeste,individual,0
+","" Casa o chalet independiente en venta en Dublín, 5"",Elviña - A Zapateira,995000,43.3265844,-8.3996286,98324437.0,Casa,681,570,8,5,1,1,,0,0,""norte, sur, este, oeste"",individual,1"
+",""Ático en venta en paseo Ronda, 5"",Juan Flórez-San Pablo,850000,43.3654703,-8.4138743,99533508.0,Ático,224,197,5,2,0,0,9,1,1,""norte, sur, este"",individual: Gas natural,1"
+",Piso en venta en paseo alcalde francisco vázquez s/n,Monte Alto - Zalaeta - Atocha,570000,43.3764614,-8.393975,98979830.0,Piso,144,130,4,3,1,1,8,1,1,""sur, oeste"",central: Gasoil,1"
+",Piso en venta en Caballeros,Cuatro Caminos - Plaza de la Cubela,383820,43.3499544,-8.4029026,97279509.0,Piso,131,112,3,2,1,1,2,1,1,""este, oeste"",individual: Bomba de frío/calor,1"
+,Piso en venta en VIlla de Negreira,Agra del Orzán - Ventorrillo,140000,43.3662003,-8.4181019,101177703.0,Piso,83,,3,1,0,0,4,1,1,sur,,0
+",Piso en venta en Alcalde Lens,Agra del Orzán - Ventorrillo,150000,43.3624671,-8.4169685,101238547.0,Piso,93,,4,2,0,0,1,1,1,""sur, este"",,1"
+",Piso en venta en paseo alcalde francisco vázquez s/n,Monte Alto - Zalaeta - Atocha,570000,43.3764614,-8.393975,98979830.0,Piso,144,130,4,3,1,1,8,1,1,""sur, oeste"",central: Gasoil,1"
+",Piso en venta en Fernández Latorre,Cuatro Caminos - Plaza de la Cubela,420000,43.35644,-8.4052348,100947156.0,Piso,140,124,4,2,1,1,5,1,1,""este, oeste"",individual: Eléctrica,1"
+",""Piso en venta en Magistrado Manuel Artime, 4"",Juan Flórez-San Pablo,335000,43.3652224,-8.4108409,101429702.0,Piso,121,113,3,2,1,0,3,1,1,este,individual: Eléctrica,1"
+",Piso en venta en Caballeros,Cuatro Caminos - Plaza de la Cubela,383820,43.3499544,-8.4029026,97279509.0,Piso,131,112,3,2,1,1,2,1,1,""este, oeste"",individual: Bomba de frío/calor,1"
+,Piso en venta en Agra del Orzán - Ventorrillo,A Coruña,239900,43.3614092,-8.4218059,101751414.0,Piso,132,,4,2,0,1,5,1,1,,,0
+,Piso en venta en avenida San Cristóbal,Someso - Matogrande,250000,43.3433335,-8.4108843,101234036.0,Piso,110,,3,2,1,1,8,1,1,sur,central: Gas,1
+,Piso en venta en calle Francisco Tettamancy,Os Mallos,175000,43.3549928,-8.4139102,100946809.0,Piso,77,64,2,1,0,0,4,1,1,,individual,1
+,Piso en venta en calle Francisco Tettamancy,Os Mallos,165000,43.3544656,-8.4112548,100946551.0,Piso,77,64,2,1,0,0,2,1,1,,individual,1
+,Piso en venta en calle Nicaragua,Juan Flórez-San Pablo,287000,43.3617993,-8.4071098,100800088.0,Piso,116,113,2,2,0,0,1,1,1,,individual: Eléctrica,1
+,Piso en venta en calle Francisco Tettamancy,Os Mallos,160000,43.3554985,-8.4110082,100931162.0,Piso,77,64,2,1,0,0,1,1,1,,individual,1
+,Piso en venta en calle Francisco Tettamancy,Os Mallos,170000,43.3553142,-8.4142486,100946756.0,Piso,77,64,2,1,0,0,3,1,1,,individual,1
+",""Piso en venta en calle Oriente, 15"",Monte Alto - Zalaeta - Atocha,195000,43.3795646,-8.4027615,101296361.0,Piso,68,57,2,1,0,0,1,1,1,,individual: Eléctrica,1"
+",""Piso en venta en Faro, 57"",Monte Alto - Zalaeta - Atocha,160000,43.3809762,-8.4020396,97278046.0,Piso,66,,2,2,0,1,5,1,1,este,individual: Eléctrica,1"
+",""Piso en venta en calle Oriente, 15"",Monte Alto - Zalaeta - Atocha,225000,43.3795646,-8.4027615,101296351.0,Piso,74,62,2,1,0,0,2,1,1,,individual: Eléctrica,1"
+",""Piso en venta en calle Baldaio, 7"",Os Mallos,193000,43.3539237,-8.4124899,97638266.0,Piso,76,65,3,2,0,0,3,1,1,,individual: Eléctrica,0"
+","" Chalet adosado en venta en Urb. Monte Alto, Monte Alto - Zalaeta - Atocha"",A Coruña,283000,43.377755,-8.4050042,96585322.0,Chalet,184,140,4,2,0,1,,0,0,""norte, oeste"",individual: Eléctrica,1"
+",Piso en venta en riego de agua,Ciudad Vieja - Centro,535000,43.3717693,-8.3981311,101645080.0,Piso,108,99,3,2,0,0,4,1,1,""sur, este"",individual: Eléctrica,1"
+,Piso en venta en Cantón Pequeño,Ensanche,795000,43.3679651,-8.4063671,100151597.0,Piso,122,,2,2,1,1,5,1,1,sur,central: Gasoil,1
+",""Piso en venta en calle Baldaio, 7"",Os Mallos,212000,43.3539237,-8.4124899,97638268.0,Piso,55,48,2,1,0,1,5,1,1,,individual: Eléctrica,0"
+",""Piso en venta en calle Baldaio, 7"",Os Mallos,190000,43.3539237,-8.4124899,97638269.0,Piso,76,65,3,2,0,1,2,1,1,,individual: Eléctrica,0"
+",""Piso en venta en Urb. Urbenorte, Someso - Matogrande"",A Coruña,209000,43.3435261,-8.4033221,94377135.0,Piso,88,78,2,2,0,1,1,1,1,oeste,individual: Gas natural,1"
+",""Piso en venta en avenida de Oza, 16"",Cuatro Caminos - Plaza de la Cubela,695000,43.3560685,-8.4029604,100239477.0,Piso,405,326,11,4,0,0,3,1,1,""norte, sur"",individual: Gas natural,1"
+",""Piso en venta en calle Baldaio, 7"",Os Mallos,185000,43.3539237,-8.4124899,97684978.0,Piso,69,61,3,2,0,1,1,1,1,,individual: Eléctrica,0"
+",""Piso en venta en calle Baldaio, 7"",Os Mallos,196000,43.3539237,-8.4124899,97638276.0,Piso,76,65,3,2,0,0,4,1,1,,individual: Eléctrica,0"
+,Piso en venta en ronda de Nelle (Paseo de los Puentes ),Paseo de los Puentes-Santa Margarita,125000,43.3646178,-8.4178114,101028152.0,Piso,65,,3,1,0,0,4,1,1,este,,0
+",Piso en venta en Riazor - Los Rosales,A Coruña,425000,43.3729717,-8.4211442,99773724.0,Piso,103,96,2,2,1,1,6,1,1,""sur, oeste"",individual: Gas natural,1"
+,Ático en venta en calle Juan de Ciorraga,Someso - Matogrande,275000,43.3391361,-8.410908,100815577.0,Ático,125,85,3,2,1,1,8,1,1,,individual,1
+,Piso en venta en Riazor - Los Rosales,A Coruña,315000,43.3677204,-8.4214111,100021957.0,Piso,135,125,4,2,1,0,8,1,1,sur,individual: Gas natural,1
+",Piso en venta en Marcial Del Adalid,Ensanche,310000,43.3627622,-8.407413,101260812.0,Piso,88,,4,1,0,0,2,1,1,""sur, oeste"",,1"
+",Piso en venta en Agra del Orzán - Ventorrillo,A Coruña,210000,43.363141,-8.4203586,99362955.0,Piso,104,95,4,2,0,0,3,1,1,""sur, este"",individual: Eléctrica,1"
+,Piso en venta en calle Blanco White,Someso - Matogrande,155688,43.3448618,-8.4165492,97469143.0,Piso,94,75,2,2,1,0,3,1,1,,individual: Eléctrica,1
+",Piso en venta en Marcial Del Adalid,Ensanche,310000,43.3627622,-8.407413,101260812.0,Piso,88,,4,1,0,0,2,1,1,""sur, oeste"",,1"
+",Piso en venta en Agra del Orzán - Ventorrillo,A Coruña,210000,43.363141,-8.4203586,99362955.0,Piso,104,95,4,2,0,0,3,1,1,""sur, este"",individual: Eléctrica,1"
+",Piso en venta en Riazor - Los Rosales,A Coruña,425000,43.3729717,-8.4211442,99773724.0,Piso,103,96,2,2,1,1,6,1,1,""sur, oeste"",individual: Gas natural,1"
+,Piso en venta en calle Blanco White,Someso - Matogrande,147024,43.3472006,-8.4173529,97486317.0,Piso,91,74,2,2,0,0,2,1,1,,individual: Eléctrica,1
+,Piso en venta en ronda de Nelle (Paseo de los Puentes ),Paseo de los Puentes-Santa Margarita,125000,43.3646178,-8.4178114,101028152.0,Piso,65,,3,1,0,0,4,1,1,este,,0
+,Piso en venta en Enrique mariñas romero,Someso - Matogrande,135000,43.3412889,-8.4037865,100912434.0,Piso,39,,,1,0,0,7,1,1,,individual: Eléctrica,1
+",Dúplex en venta en Cuatro Caminos - Plaza de la Cubela,A Coruña,399000,43.3555287,-8.3988771,100205697.0,Dúplex,138,125,3,3,1,1,5,1,1,""este, oeste"",individual: Gas natural,1"
+", Casa o chalet independiente en venta en Agra del Orzán - Ventorrillo,A Coruña,290000,43.357138,-8.4320924,100871993.0,Casa,299,72,2,1,0,1,,0,0,""sur, oeste"",individual: Eléctrica,0"
+,Piso en venta en calle Blanco White,Someso - Matogrande,147565,43.3465442,-8.4190356,100125664.0,Piso,92,73,2,2,1,0,3,1,1,,individual,1
+",""Piso en venta en calle Wenceslao Fernández Flórez, 2"",Falperra-Santa Lucía,400000,43.3615941,-8.4081092,101756851.0,Piso,174,,3,3,0,0,5,1,1,este,individual: Gas natural,1"
+",""Piso en venta en Galera, 44"",Ciudad Vieja - Centro,595000,43.370109,-8.401115,98639539.0,Piso,168,150,5,3,1,1,2,1,1,este,individual: Eléctrica,1"
+",Piso en venta en avenida Finisterre,Sagrada Familia,95000,43.359894,-8.4176119,98564812.0,Piso,44,34,,1,0,0,2,1,1,""sur, este"",individual: Eléctrica,1"
+",Piso en venta en Ramón y Cajal s/n,Cuatro Caminos - Plaza de la Cubela,350000,43.3559852,-8.4019455,101482704.0,Piso,109,100,4,2,0,0,13,1,1,""sur, este"",central: Gas,1"
+",""Piso en venta en Francisco Añón, 23"",Agra del Orzán - Ventorrillo,315000,43.3635813,-8.4186151,101260526.0,Piso,130,105,4,2,1,1,5,1,1,este,individual: Eléctrica,1"
+",Piso en venta en Agra del Orzán - Ventorrillo,A Coruña,275000,43.365264,-8.4218663,96828017.0,Piso,127,108,4,2,1,1,3,1,1,""sur, este"",individual: Eléctrica,1"
+",""Piso en venta en ronda de Nelle, 96"",Paseo de los Puentes-Santa Margarita,269000,43.3607435,-8.4150577,100969686.0,Piso,96,87,3,2,1,1,7,1,1,""sur, oeste"",individual: Eléctrica,1"
+",Piso en venta en Agra Del Orzan s/n,Agra del Orzán - Ventorrillo,210000,43.362135,-8.420742,98546591.0,Piso,105,95,4,2,0,0,3,1,1,""sur, este"",individual: Eléctrica,0"
+,Piso en venta en calle Doutor Fleming,Falperra-Santa Lucía,169900,43.3618758,-8.4094746,101751050.0,Piso,71,64,2,1,0,0,3,1,1,,individual,1
+",""Dúplex en venta en Manuel Azaña, 46"",Riazor - Los Rosales,315000,43.3753671,-8.4296443,101552676.0,Dúplex,97,85,3,3,1,1,8,1,1,norte,individual: Gas natural,1"
+",""Piso en venta en Fragas do Eume, 32"",Mesoiro,145000,43.3235456,-8.4437035,100456968.0,Piso,95,85,3,2,1,1,1,1,1,""norte, oeste"",individual: Gas natural,1"
+,Piso en venta en calle Blanco White,Someso - Matogrande,167962,43.3474205,-8.4156181,101867553.0,Piso,86,,2,2,1,0,1,1,1,,,1
+",""Dúplex en venta en San Lorenzo, 22"",Monte Alto - Zalaeta - Atocha,180000,43.3757873,-8.3967387,100766825.0,Dúplex,70,55,,1,0,0,,0,0,,,1"
+","" Casa o chalet independiente en venta en Lugar Palavea, 34"",Elviña - A Zapateira,82000,43.3281752,-8.3931603,95080261.0,Casa,85,,3,2,0,0,,0,0,,,0"
+",""Ático en venta en calle San Agustín, 9"",Ciudad Vieja - Centro,340000,43.3713544,-8.3969863,101641016.0,Ático,65,,,1,0,1,4,1,1,,,1"
+",""Piso en venta en paseo Ronda, 1"",Juan Flórez-San Pablo,399000,43.3652221,-8.4140724,101698653.0,Piso,126,,5,2,0,0,5,1,1,oeste,individual,1"
+,Dúplex en venta en avenida de Montserrat,Eirís,180000,43.334306,-8.3906212,101604127.0,Dúplex,93,74,2,1,1,1,3,1,1,,individual: Gas natural,1
+","" Casa o chalet independiente en venta en avenida Pasaxe, 55"",Eirís,1149900,43.3464366,-8.3880294,38614075.0,Casa,386,,4,4,1,0,,0,0,,individual,0"
+",Piso en venta en Mauricio Farto Parra,Monte Alto - Zalaeta - Atocha,178000,43.3796822,-8.4004293,101838289.0,Piso,88,80,3,2,0,0,6,1,1,""sur, oeste"",individual: Gas natural,1"
+,Piso en venta en calle San Andrés,Ciudad Vieja - Centro,335000,43.3687514,-8.4035934,100473117.0,Piso,130,120,4,2,0,1,2,0,1,este,individual,0
+,Piso en venta en Juan Flórez,Juan Flórez-San Pablo,385000,43.3654278,-8.4102787,101713068.0,Piso,112,100,3,4,0,0,7,1,1,este,,1
+", Finca rústica en venta en Xubias de Arriba,Eirís,282000,43.3451313,-8.3837845,101521860.0,Finca,546,139,3,2,0,0,,0,0,""norte, sur, este, oeste"",,0"
+,Piso en venta en N-550,Ensanche,675000,43.3592514,-8.4067239,101234662.0,Piso,210,,4,4,1,1,10,1,1,sur,central,1
+, Casa o chalet independiente en venta en Sagrada Familia,A Coruña,600000,43.3596168,-8.412081,88890712.0,Casa,400,,7,4,1,1,,0,0,,,1
+",""Piso en venta en calle Oriente, 15"",Monte Alto - Zalaeta - Atocha,185000,43.3795646,-8.4027615,101296386.0,Piso,85,67,2,1,0,0,,1,0,,individual: Eléctrica,1"
+,Piso en venta en Cordeleria,Ensanche,650000,43.368978,-8.4031792,100060994.0,Piso,154,145,3,2,0,1,5,1,1,oeste,individual: Eléctrica,1
+,Piso en venta en calle Francisco Tettamancy,Os Mallos,51000,43.3551985,-8.4137847,96835477.0,Piso,60,,2,1,0,0,6,0,1,,,0
+,Piso en venta en Ensanche,Ensanche - Juan Florez,675000,43.3598866,-8.4046478,100041272.0,Piso,223,,4,4,1,1,10,1,1,,individual,1
+,Piso en venta en calle Corcubión,Agra del Orzán - Ventorrillo,205000,43.362974,-8.4191607,101010947.0,Piso,102,93,3,2,1,0,4,1,1,,central,1
+,Piso en venta en Ensanche,Ensanche - Juan Florez,480000,43.3662134,-8.4048568,100762802.0,Piso,120,,3,2,0,1,11,1,1,,,0
+",Piso en venta en calle ortigueira,Los Castros - Castrillón,119000,43.3525352,-8.3888458,99292293.0,Piso,100,95,3,1,0,0,5,0,1,""sur, este"",individual: Eléctrica,0"
+,Piso en venta en Linares Rivas,Ensanche,750000,43.3619486,-8.4042227,92475886.0,Piso,237,,4,3,1,1,5,1,1,,individual: Gas natural,1
+,Piso en venta en calle Caballeros,Cuatro Caminos - Plaza de la Cubela,383820,43.3497544,-8.4056026,95111945.0,Piso,130,,3,2,1,1,3,1,1,,individual,1
+",""Ático en venta en ronda Nelle, 125"",Agra del Orzán - Ventorrillo,250000,43.3633059,-8.4177017,101888740.0,Ático,81,,4,1,0,1,8,1,1,,individual: Gas natural,1"
+",""Piso en venta en ronda de Outeiro, 207"",Vioño,215000,43.3561862,-8.4161079,100700028.0,Piso,70,60,2,2,1,1,4,1,1,,individual: Gas natural,0"
+,Piso en venta en Alfredo Vicenti,Juan Flórez-San Pablo,490000,43.3652201,-8.409659,100955133.0,Piso,238,202,6,3,0,0,4,1,1,,,1
+,Piso en venta en avenida Finisterre,Sagrada Familia,189000,43.3610078,-8.4184701,101134110.0,Piso,98,,4,2,0,0,6,1,1,,,0
+,Dúplex en venta en avenida Gran Canaria,Riazor - Los Rosales,260000,43.3707221,-8.4217929,101780749.0,Dúplex,95,80,2,2,1,1,6,1,1,,individual: Eléctrica,1
+,Piso en venta en calle San Andrés,Ciudad Vieja - Centro,335000,43.3710356,-8.4037066,100462537.0,Piso,130,,4,1,0,0,2,0,1,,,0
+,Piso en venta en calle Menéndez y Pelayo,Ensanche,310000,43.3651705,-8.4072521,101345874.0,Piso,107,,2,2,0,0,6,1,1,,,1
+,Piso en venta en calle Menéndez y Pelayo,Ensanche,310000,43.3651705,-8.4072521,101345874.0,Piso,107,,2,2,0,0,6,1,1,,,1
+,Piso en venta en avenida de Monelos,Eirís,195000,43.3417146,-8.3983704,101768639.0,Piso,104,,3,2,0,0,2,0,1,,individual,0
+,Dúplex en venta en Buenavista,Los Castros - Castrillón,204000,43.3514335,-8.3879312,99128473.0,Dúplex,108,96,2,2,1,1,4,1,1,,central,1
+",Piso en venta en Simón Bolivar,Riazor - Los Rosales,290000,43.3741757,-8.4325136,99410366.0,Piso,133,120,3,3,1,1,8,1,1,""sur, este"",individual: Gas natural,1"
+",Piso en venta en Federico Tapia,Ensanche,450000,43.3638249,-8.4075295,97715023.0,Piso,90,85,3,2,1,1,3,1,1,""norte, oeste"",central: Gasoil,0"
+,Piso en venta en plaza José Toubes,Os Mallos,360000,43.3586169,-8.4058869,99944688.0,Piso,126,,4,2,1,1,6,1,1,,central: Gas,1
+",""Piso en venta en avenida Rubine, 25"",Juan Flórez-San Pablo,320000,43.3676643,-8.4100168,1623206.0,Piso,55,50,2,1,1,1,6,1,1,""sur, oeste"",individual: Gas natural,1"
+",""Piso en venta en Lugar de Palavea Vieja, 10 bloque"",Elviña - A Zapateira,74000,43.3280797,-8.3956375,92037834.0,Piso,48,45,,1,0,0,1,0,1,sur,,0"
+,Piso en venta en ronda de Monte Alto,Monte Alto - Zalaeta - Atocha,425000,43.3797181,-8.40712,101879879.0,Piso,92,,2,2,1,1,,1,0,,,1
+",Piso en venta en plaza de Pontevedra,Ensanche,450000,43.3686065,-8.4100626,100717371.0,Piso,125,115,4,2,1,0,4,1,1,""norte, oeste"",individual,1"
+",Piso en venta en Cordonería,Ciudad Vieja - Centro,380000,43.3734347,-8.4007244,100949043.0,Piso,118,105,4,2,0,1,5,1,1,""sur, oeste"",individual: Gas natural,1"
+,Piso en venta en Revolución Francesa,Vioño,239000,43.3546473,-8.4151396,101234703.0,Piso,77,68,2,2,1,1,8,1,1,oeste,individual: Eléctrica,1
+",""Piso en venta en calle Barcelona, a Coruña"",Agra del Orzán - Ventorrillo,275000,43.3621327,-8.4243171,98454769.0,Piso,110,100,3,2,1,1,3,1,1,este,individual: Eléctrica,1"
+, Casa o chalet independiente en venta en avenida Habana,Ciudad Jardín,1800000,43.3685885,-8.4210751,100874563.0,Casa,460,412,8,4,0,0,,0,0,,,0
+,Piso en venta en avenida de Oza,Los Castros - Castrillón,210000,43.3526506,-8.3939629,101259665.0,Piso,130,115,3,2,0,1,8,1,1,sur,individual: Eléctrica,1
+",Piso en venta en carretera de Visma a Mazaido,Agra del Orzán - Ventorrillo,150000,43.368999,-8.4303908,99147440.0,Piso,80,74,2,2,1,1,1,0,1,""norte, este, oeste"",individual: Eléctrica,1"
+,Piso en venta en avenida de Monelos,Eirís,295000,43.3444348,-8.3980594,100961758.0,Piso,100,90,3,2,1,1,6,1,1,este,individual: Gas natural,1
+",Piso en venta en Cantón Pequeño,Ensanche,795000,43.3678373,-8.4033658,98422108.0,Piso,122,115,2,2,1,1,5,1,1,""sur, oeste"",central: Gasoil,1"
+,Piso en venta en avenida Finisterre,Paseo de los Puentes-Santa Margarita,240000,43.3633036,-8.4117871,99703611.0,Piso,56,50,2,2,0,1,4,1,1,sur,individual: Eléctrica,1
+",Piso en venta en calle Caballeros,Cuatro Caminos - Plaza de la Cubela,283000,43.3515085,-8.4026201,100747452.0,Piso,99,90,3,2,1,0,2,1,1,""sur, oeste"",individual: Eléctrica,1"
+,Piso en venta en ronda de Nelle,Agra del Orzán - Ventorrillo,284000,43.3642414,-8.4181876,101160752.0,Piso,100,90,2,2,0,0,6,1,1,oeste,individual: Gas natural,1
+, Casa o chalet independiente en venta en calle Castaño de Eirís,Eirís,790000,43.3440199,-8.3930283,101784066.0,Casa,378,,9,2,1,0,,0,0,sur,individual: Gas propano/butano,1
+,Piso en venta en avenida de Monelos,Eirís,175000,43.3459053,-8.4003922,100717295.0,Piso,70,,2,2,1,1,7,1,1,,,0
+,Piso en venta en calle Pascual Veiga,Agra del Orzán - Ventorrillo,150000,43.3617818,-8.4218159,101764918.0,Piso,83,,4,1,0,0,3,1,1,,,0
+",Piso en venta en calle Novoa Santos,Cuatro Caminos - Plaza de la Cubela,259000,43.3564411,-8.4019168,99893896.0,Piso,87,80,3,2,0,0,5,1,1,""sur, oeste"",individual,1"
+,Piso en venta en calle Merced,Los Castros - Castrillón,136000,43.3532204,-8.3956186,101769229.0,Piso,78,63,3,1,0,0,2,0,1,,,0
+,Ático en venta en Villa de Negreira,Agra del Orzán - Ventorrillo,160000,43.3654627,-8.4215001,98144344.0,Ático,60,51,2,2,0,1,6,1,1,sur,individual: Eléctrica,1
+,Piso en venta en avenida de Arteixo,Juan Flórez-San Pablo,365000,43.3641436,-8.4093722,98986115.0,Piso,98,90,2,2,0,0,3,1,1,,central,1
+,Dúplex en venta en calle Severo Ochoa,Vioño,690000,43.3519567,-8.4203352,100990881.0,Dúplex,200,180,5,3,1,1,10,1,1,,central,1
+",Piso en venta en calle Novoa Santos,Cuatro Caminos - Plaza de la Cubela,259000,43.3564411,-8.4019168,99893896.0,Piso,87,80,3,2,0,0,5,1,1,""sur, oeste"",individual,1"
+,Ático en venta en Villa de Negreira,Agra del Orzán - Ventorrillo,160000,43.3654627,-8.4215001,98144344.0,Ático,60,51,2,2,0,1,6,1,1,sur,individual: Eléctrica,1
+,Dúplex en venta en Buenavista,Los Castros - Castrillón,204000,43.3514335,-8.3879312,99128473.0,Dúplex,108,96,2,2,1,1,4,1,1,,central,1
+,Piso en venta en Linares Rivas,Ensanche,595000,43.3608537,-8.4076456,85225817.0,Piso,224,,5,3,1,1,3,1,1,,central,0
+,Piso en venta en Fraternidad / Av. De Arteixo / Rda. De Outeiro,Vioño,260000,43.356158,-8.413582,99900229.0,Piso,80,,2,2,1,1,5,1,1,este,central: Gas,1
+,Piso en venta en avenida de Arteixo,Juan Flórez-San Pablo,299000,43.3629256,-8.4106228,99347799.0,Piso,139,,4,2,0,1,,0,0,,individual,0
+,Piso en venta en avenida javier lopez,Los Castros - Castrillón,160000,43.3453077,-8.4012119,101239022.0,Piso,96,,3,2,0,0,3,1,1,,individual,1
+,Piso en venta en calle Fragas do Eume,Mesoiro,178000,43.322526,-8.4438404,99898604.0,Piso,90,,3,2,1,1,5,1,1,,individual: Gas natural,1
+,Piso en venta en calle San Sebastian,Sagrada Familia,200000,43.3599416,-8.4168735,98481039.0,Piso,82,79,3,1,0,0,4,1,1,,individual: Gas natural,1
+,Piso en venta en calle Rubine,Juan Flórez-San Pablo,390000,43.3670244,-8.4091379,99390789.0,Piso,151,138,3,2,0,0,4,1,1,,central,1
+",""Piso en venta en calle Juan de Ciorraga, 1"",Someso - Matogrande,225000,43.3392135,-8.4122789,97964078.0,Piso,100,86,3,2,1,1,3,1,1,,,1"
+,Piso en venta en ronda de Outeiro,Los Castros - Castrillón,159900,43.3536758,-8.3988153,98831785.0,Piso,75,70,2,1,0,0,1,1,1,,individual,1
+,Piso en venta en calle Sinforiano López,Falperra-Santa Lucía,215000,43.3598604,-8.4074502,98727615.0,Piso,70,60,,1,0,0,1,1,1,,individual: Eléctrica,1
+",Dúplex en venta en Mendaña de Neyra,Someso - Matogrande,245000,43.3424706,-8.4085873,101645731.0,Dúplex,130,,4,3,1,1,6,1,1,""norte, oeste"",individual: Gas natural,1"
+,Piso en venta en avenida Linares Rivas,Ensanche,749950,43.3637813,-8.4059031,99772138.0,Piso,237,,4,4,1,0,5,1,1,,individual,1
+,Piso en venta en barcelona,Agra del Orzán - Ventorrillo,275000,43.3652115,-8.4217938,94780688.0,Piso,108,,4,2,1,1,3,1,1,,individual,1
+,Piso en venta en Novoa Santos,Cuatro Caminos - Plaza de la Cubela,170000,43.3554198,-8.4004879,101798540.0,Piso,84,78,2,1,0,0,2,1,1,,,1
+",""Ático en venta en calle Vila de Laxe, 10"",Falperra-Santa Lucía,279000,43.358995,-8.4088645,101197415.0,Ático,120,,3,2,0,0,5,1,1,sur,individual: Gas natural,1"
+, Chalet adosado en venta en calle Río Tambre,Falperra-Santa Lucía,890000,43.3607729,-8.409391,98709264.0,Chalet,246,,4,4,1,1,,0,0,,individual,1
+",""Piso en venta en Alcalde marchesi, 15"",Cuatro Caminos - Plaza de la Cubela,298000,43.3560637,-8.4035557,101206923.0,Piso,132,116,3,2,0,0,3,1,1,sur,individual: Eléctrica,1"
+",""Piso en venta en avenida Arteixo, 10"",Juan Flórez-San Pablo,230000,43.3635345,-8.4091062,101642698.0,Piso,122,100,3,2,0,0,1,1,1,,,0"
+",""Piso en venta en Socorro, 7"",Monte Alto - Zalaeta - Atocha,134900,43.3719778,-8.4012259,99073781.0,Piso,65,55,2,1,0,0,1,0,1,,,1"
+",""Piso en venta en Castrillon Miramar, 12"",Los Castros - Castrillón,85000,43.3509499,-8.3961941,95862908.0,Piso,65,60,2,1,0,0,,1,0,,,0"
+,Piso en venta en calle San Andrés,Ensanche,425000,43.3712813,-8.404904,99341184.0,Piso,177,150,2,2,0,1,2,1,1,sur,individual,1
+,Piso en venta en Gil Vicente,Agra del Orzán - Ventorrillo,127000,43.3639278,-8.4191968,99414983.0,Piso,82,,2,1,0,0,2,1,1,,,0
+,Piso en venta en calle Novoa Santos,Cuatro Caminos - Plaza de la Cubela,259000,43.357621,-8.4000993,99896792.0,Piso,94,,3,2,0,0,5,1,1,,,1
+,Piso en venta en calle Novoa Santos,Cuatro Caminos - Plaza de la Cubela,259000,43.3578308,-8.3993144,101550148.0,Piso,94,,3,2,0,0,5,1,1,,,1
+",""Piso en venta en calle San Isidoro, 59"",Sagrada Familia,130000,43.3576597,-8.4182098,100741483.0,Piso,66,62,2,1,0,0,11,1,1,sur,individual: Gas natural,1"
+, Chalet pareado en venta en Lugar Palavea s/n,Elviña - A Zapateira,250000,43.3286856,-8.3933828,100726905.0,Chalet,208,200,4,3,1,1,,0,0,sur,individual,1
+,Piso en venta en calle Santa Cecilia,Monte Alto - Zalaeta - Atocha,129000,43.3810777,-8.399212,101598803.0,Piso,66,,2,1,0,0,2,0,1,,,1
+",""Piso en venta en calle Caballeros, 39"",Cuatro Caminos - Plaza de la Cubela,400120,43.3510544,-8.4048026,89694710.0,Piso,152,,3,2,0,1,4,1,1,,,0"
+,Dúplex en venta en calle Valencia,Monte Alto - Zalaeta - Atocha,205000,43.3815287,-8.4010828,100641739.0,Dúplex,100,,3,2,0,0,,0,0,,,1
+,Piso en venta en calle Luis Pita,Eirís,160000,43.3309817,-8.386425,101442963.0,Piso,50,,,1,1,1,7,1,1,,,1
+,Piso en venta en plaza Padre José Rubinos,Os Mallos,105000,43.3563208,-8.4123632,97758113.0,Piso,75,65,2,1,0,0,2,0,1,este,individual: Eléctrica,1
+,Piso en venta en ronda Nelle,Paseo de los Puentes-Santa Margarita,175000,43.3618955,-8.4168952,97905136.0,Piso,93,80,4,2,0,0,10,1,1,,,1
+,Piso en venta en calle José Careaga,Riazor - Los Rosales,250000,43.3690661,-8.4219452,100762376.0,Piso,84,73,2,2,1,1,3,1,1,,individual: Eléctrica,1
+,Piso en venta en Lugar As Rañas,Mesoiro,175000,43.3392506,-8.432639,101542356.0,Piso,85,,3,2,0,0,3,0,1,,,1
+,Piso en venta en avenida Finisterre,Agra del Orzán - Ventorrillo,220000,43.3608553,-8.4195525,100521601.0,Piso,142,130,4,3,0,0,2,1,1,,,1
+,Dúplex en venta en plaza de Zalaeta,Monte Alto - Zalaeta - Atocha,1050000,43.374138,-8.3997243,99999395.0,Dúplex,234,,4,3,1,1,8,1,1,,,1
+,Piso en venta en calle Javier López López,Los Castros - Castrillón,170000,43.3489292,-8.3985655,100341497.0,Piso,98,,3,2,0,0,5,1,1,,,0
+,Dúplex en venta en calle Manuel Azaña,Riazor - Los Rosales,315000,43.374721,-8.4284623,101613622.0,Dúplex,97,,3,2,1,1,8,1,1,,,1
+, Casa o chalet independiente en venta en avenida Pasaxe,Eirís,800000,43.3446632,-8.3863912,100341506.0,Casa,430,,6,4,1,1,,0,0,,,1
+,Piso en venta en avenida Finisterre,Agra del Orzán - Ventorrillo,155000,43.360816,-8.419832,101472535.0,Piso,80,,4,2,0,0,6,1,1,,,1
+,Piso en venta en calle Javier López López,Los Castros - Castrillón,165000,43.3478737,-8.3982639,101202078.0,Piso,105,,3,2,0,0,3,1,1,,,1
+,Piso en venta en calle Menéndez y Pelayo,Ensanche,700000,43.3620553,-8.4067232,101390570.0,Piso,110,,2,2,0,0,1,1,1,,,1
+,Piso en venta en calle Juan Sebastián Elcano,Monte Alto - Zalaeta - Atocha,275000,43.3818654,-8.3944891,100110698.0,Piso,89,,3,2,1,1,7,1,1,,,1
+,Dúplex en venta en Lugar de Entrecasas,Agra del Orzán - Ventorrillo,140000,43.3692782,-8.4304108,99737210.0,Dúplex,92,74,3,2,1,1,2,0,1,,,1
+,Piso en venta en calle Blanco White,Someso - Matogrande,164675,43.3475689,-8.4178102,97476152.0,Piso,108,86,2,2,0,0,1,1,1,,individual: Eléctrica,1
+,Piso en venta en Los Castros - Castrillón,A Coruña,147000,43.3517132,-8.3964548,100580412.0,Piso,57,50,,1,1,1,4,1,1,este,individual: Eléctrica,1
+",Piso en venta en Os Mallos,A Coruña,135000,43.3568342,-8.41213,100654251.0,Piso,73,65,2,1,0,1,3,0,1,""sur, este"",individual,1"
+",""Piso en venta en travesía Laracha, 3"",Agra del Orzán - Ventorrillo,236000,43.36231,-8.41915,98705215.0,Piso,104,,3,2,1,1,1,1,1,este,individual: Gas natural,1"
+,Piso en venta en avenida de Oza,Los Castros - Castrillón,390000,43.3532733,-8.3915852,96945828.0,Piso,168,163,3,2,0,0,2,1,1,oeste,individual,1
+",""Piso en venta en Manuel Murguía, 8"",Riazor - Los Rosales,262000,43.3698056,-8.4165817,101265276.0,Piso,68,60,2,1,0,0,1,1,1,""sur, este"",individual: Gas natural,0"
+",""Piso en venta en ronda Nelle, 118"",Paseo de los Puentes-Santa Margarita,255000,43.3622397,-8.4163331,101667027.0,Piso,89,80,3,1,0,1,1,1,1,sur,,0"
+","" Casa o chalet independiente en venta en calle Ginebra, 5"",Elviña - A Zapateira,1050000,43.3278572,-8.3995023,99346576.0,Casa,581,,6,4,1,1,,0,0,""norte, sur, este, oeste"",individual,1"
+",""Ático en venta en carretera de Mesoiro, 82"",Mesoiro,135000,43.3317242,-8.425512,100652260.0,Ático,75,65,2,2,1,1,3,1,1,sur,individual: Eléctrica,1"
+,Piso en venta en Ciudad Vieja - Centro,A Coruña,360000,43.3706074,-8.4022436,99734815.0,Piso,100,92,2,2,0,0,4,0,1,sur,individual: Eléctrica,1
